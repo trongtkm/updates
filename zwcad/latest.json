@@ -1,0 +1,17 @@
+{
+    "app":  "zwcad",
+    "version":  "1.4.26",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.26/ZWCADToolZwCadSetup_1.4.26.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.26",
+    "notes":  "JWW/DWG/DXF: xuất DXF chuẩn Jw_cad, sửa kích thước SXF thiếu đường dóng, tự cập nhật qua trongtkm/updates",
+    "published":  "2026-10-20T13:35:13Z",
+    "mandatory":  {
+                      "value":  false,
+                      "minVersion":  null,
+                      "mode":  0
+                  },
+    "checksum":  {
+                     "value":  "BE00C500E74ADC7FEF61D0138BDAE6C5C171F2FAB19A293E530128B8F1910BD1",
+                     "hashingAlgorithm":  "SHA256"
+                 }
+}
