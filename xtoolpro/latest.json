@@ -1,17 +1,17 @@
 {
     "app":  "xtoolpro",
-    "version":  "3.3.46.171",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.171/XToolProSetup-3.3.46.171.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.171",
-    "notes":  "Bản chính thức đầu tiên qua GitHub: gom các bản thử 160-170 (DXF Check chặt hơn, Flatten-\u003eDXF nhanh hơn, giao diện task pane mới, Quick Read không hỏi lại); cập nhật tự kiểm SHA256; bộ cài kèm PDF24.",
-    "published":  "2026-10-20T05:00:42Z",
+    "version":  "3.3.46.172",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.172/XToolProSetup-3.3.46.172.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.172",
+    "notes":  "Sửa lỗi nút trên tab Sync không hiện icon ở bản chính thức; bật TLS 1.2 khi kiểm tra cập nhật; dòng Ver hiện đủ 4 số.",
+    "published":  "2026-10-20T05:54:02Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "0206BE724C61D47D18BADFB3840A7676109FB06FBA61E4520AE9FF307312C89F",
+                     "value":  "B3B7D4A9C0CC9C55C93743CB3BF51F251E8F1371AB3080CE88CF337283B3E520",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
