@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.73.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.73.0/KCCManagerSetup-3.3.73.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.73.0",
-    "notes":  "Khôi phục giao diện và icon mới (nhánh chore/cleanup bị thiếu ở 3.3.71/3.3.72); giữ header filter, cập nhật qua GitHub, mặc định server dokuwiki:5151.",
-    "published":  "2026-10-20T14:02:43Z",
+    "version":  "3.3.74.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.74.0/KCCManagerSetup-3.3.74.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.74.0",
+    "notes":  "To don tang ca kieu nghi phep (残業時間 \u003e Báo tăng ca); tu xac nhan gio tang ca tinh theo block 30 phut (du tren 20 phut tinh 30); bo thanh dang ky tang ca o dau moi tab.",
+    "published":  "2026-10-20T23:42:47Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "48C929C8CE33F1A69A26C9BC4A3C88856AF3FA8F007110B54E5DAB4A50E66A9D",
+                     "value":  "BFA956EB7F7D159038532D2A252BB8E802444B4FE804CB6F35EA6FFFF958526B",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
