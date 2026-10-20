@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.71.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.71.0/KCCManagerSetup-3.3.71.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.71.0",
-    "notes":  "Ban dau tien qua GitHub: client tu cap nhat tu trongtkm/updates (kiem SHA256), bo cai giu nguyen dia chi server khi cap nhat.",
-    "published":  "2026-10-20T09:48:53Z",
+    "version":  "3.3.72.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.72.0/KCCManagerSetup-3.3.72.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.72.0",
+    "notes":  "Mac dinh server CSDL http://dokuwiki:5151, ke ca khi cap nhat tu ban de localhost.",
+    "published":  "2026-10-20T09:59:16Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "E98ECD3BD121A9B0B0588AEB29B1FC0E7A403DC710EFB41B7B550F5FC12B7E12",
+                     "value":  "896B8C3765B5C758B363C173C206A373EFB3349F24F3AD698AEA5AA065B3363E",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
