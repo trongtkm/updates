@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.72.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.72.0/KCCManagerSetup-3.3.72.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.72.0",
-    "notes":  "Mac dinh server CSDL http://dokuwiki:5151, ke ca khi cap nhat tu ban de localhost.",
-    "published":  "2026-10-20T09:59:16Z",
+    "version":  "3.3.73.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.73.0/KCCManagerSetup-3.3.73.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.73.0",
+    "notes":  "Khôi phục giao diện và icon mới (nhánh chore/cleanup bị thiếu ở 3.3.71/3.3.72); giữ header filter, cập nhật qua GitHub, mặc định server dokuwiki:5151.",
+    "published":  "2026-10-20T14:02:43Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "896B8C3765B5C758B363C173C206A373EFB3349F24F3AD698AEA5AA065B3363E",
+                     "value":  "48C929C8CE33F1A69A26C9BC4A3C88856AF3FA8F007110B54E5DAB4A50E66A9D",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
