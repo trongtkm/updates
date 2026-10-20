@@ -1,0 +1,17 @@
+{
+    "app":  "nestingtool",
+    "version":  "0.1.76",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.76/NestingTool_Setup_0.1.76.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.76",
+    "notes":  "NestingTool 0.1.76: loi xep phoi moi nhanh hon (che do Nhanh ~4 lan, don 745 chi tiet 706 s xuong 167 s; Toi da chat hon mot chut). Tu ban nay app tu cap nhat qua kho trongtkm/updates.",
+    "published":  "2026-10-20T14:44:56Z",
+    "mandatory":  {
+                      "value":  false,
+                      "minVersion":  null,
+                      "mode":  0
+                  },
+    "checksum":  {
+                     "value":  "26BDBCAD33B7117A5DD0BA52C863EE40012AF474F533A0662A9BAA93D15AF74A",
+                     "hashingAlgorithm":  "SHA256"
+                 }
+}
