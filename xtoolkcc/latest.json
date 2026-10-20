@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.177",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.177/XToolKCCSetup-3.3.46.177.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.177",
-    "notes":  "Tab Marks trong bản vẽ 2D: ghi 1 note với nội dung chọn từ danh sách có sẵn hoặc gõ mới rồi Enter để lưu; chọn dòng rồi bấm Del để xóa.",
-    "published":  "2026-10-20T22:50:12Z",
+    "version":  "3.3.46.178",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.178/XToolKCCSetup-3.3.46.178.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.178",
+    "notes":  "Tab Marks trong bản vẽ 2D: hiện danh sách các MARK đã có để chọn, chọn dòng sẽ chọn cạnh trên view; ghi note có chân dim kéo từ đối tượng ra ngoài khối flatten view. Giao diện tab gọn hơn.",
+    "published":  "2026-10-20T23:59:05Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "B82F127FBA49585B57755740B66FCF4AF9127A6562460D3DF20248389E42FDF4",
+                     "value":  "E946B7F9FE8CCA838277F62619B365B95C1748BE545F66BDA967F62F753F85F9",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
