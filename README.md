@@ -5,7 +5,8 @@ manifest**; code nguồn nằm ở các repo private.
 
 | App | Thư mục manifest | Tiền tố tag |
 |---|---|---|
-| XToolPro (SOLIDWORKS) | `xtoolpro/` | `xtoolpro-v` |
+| XToolPro (SOLIDWORKS, bản chính) | `xtoolpro/` | `xtoolpro-v` |
+| XToolKCC (SOLIDWORKS, cài song song bản test) | `xtoolkcc/` | `xtoolkcc-v` |
 | ZWCAD add-in | `zwcad/` | `zwcad-v` |
 | Rhino add-in | `rhino/` | `rhino-v` |
 | Grasshopper plug-in | `grasshopper/` | `grasshopper-v` |
