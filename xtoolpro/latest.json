@@ -1,0 +1,17 @@
+{
+    "app":  "xtoolpro",
+    "version":  "3.3.46.171",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.171/XToolProSetup-3.3.46.171.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.171",
+    "notes":  "Bản chính thức đầu tiên qua GitHub: gom các bản thử 160-170 (DXF Check chặt hơn, Flatten-\u003eDXF nhanh hơn, giao diện task pane mới, Quick Read không hỏi lại); cập nhật tự kiểm SHA256; bộ cài kèm PDF24.",
+    "published":  "2026-10-20T05:00:42Z",
+    "mandatory":  {
+                      "value":  false,
+                      "minVersion":  null,
+                      "mode":  0
+                  },
+    "checksum":  {
+                     "value":  "0206BE724C61D47D18BADFB3840A7676109FB06FBA61E4520AE9FF307312C89F",
+                     "hashingAlgorithm":  "SHA256"
+                 }
+}
