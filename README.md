@@ -10,6 +10,7 @@ manifest**; code nguồn nằm ở các repo private.
 | ZWCAD add-in | `zwcad/` | `zwcad-v` |
 | Rhino add-in | `rhino/` | `rhino-v` |
 | Grasshopper plug-in | `grasshopper/` | `grasshopper-v` |
+| KCCManager (client WPF) | `kccmanager/` | `kccmanager-v` |
 
 ## Quy ước
 
