@@ -53,4 +53,6 @@ git pull
 
 Script tạo Release và tải bộ cài lên **trước**, rồi mới ghi `latest.json` và
 push, nên máy người dùng không bao giờ thấy manifest trỏ tới file chưa có.
-Thêm `-Mandatory` để bắt buộc cập nhật, `-DryRun` để xem trước mà không đẩy gì.
+Script từ chối nếu `-Version` khác ProductVersion của file .exe, hoặc không mới hơn
+bản trong `latest.json` hiện tại. Thêm `-Mandatory` để bắt buộc cập nhật, `-DryRun`
+để xem trước mà không đẩy gì.

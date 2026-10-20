@@ -39,6 +39,21 @@ $installerPath = (Resolve-Path $Installer).Path
 $assetName = Split-Path -Leaf $installerPath
 $tag = "$App-v$Version"
 
+# Gõ nhầm -Version là phát hành sai ngay, nên so với ProductVersion của chính file .exe.
+$fileVersion = (Get-Item -LiteralPath $installerPath).VersionInfo.ProductVersion
+if ($fileVersion -and ($fileVersion.Trim() -ne $Version)) {
+    throw "Version $Version không khớp ProductVersion của bộ cài ($fileVersion)."
+}
+
+# Không cho phát hành lùi phiên bản so với latest.json đang có.
+$currentManifest = Join-Path (Join-Path $root $App) "latest.json"
+if (Test-Path -LiteralPath $currentManifest) {
+    $currentVersion = (Get-Content -LiteralPath $currentManifest -Raw -Encoding UTF8 | ConvertFrom-Json).version
+    if ($currentVersion -and ([version]$Version -le [version]$currentVersion)) {
+        throw "Version $Version không mới hơn bản đang phát hành ($currentVersion)."
+    }
+}
+
 if (-not $DryRun) {
     if (-not (Get-Command gh -ErrorAction SilentlyContinue)) {
         throw "Chưa có GitHub CLI (gh). Cài từ https://cli.github.com/ rồi chạy 'gh auth login'."
