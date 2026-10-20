@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.175",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.175/XToolKCCSetup-3.3.46.175.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.175",
-    "notes":  "Bỏ nhãn PARALLEL TEST ở cửa sổ Quick DXF.",
-    "published":  "2026-10-20T06:23:36Z",
+    "version":  "3.3.46.176",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.176/XToolKCCSetup-3.3.46.176.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.176",
+    "notes":  "Tab Marks mới trong Part (thêm/bỏ hậu tố _MARK cho sketch/feature). Flatten-\u003eDXF: các ô MARK theo ô Laser marks, thêm tùy chọn xuất Spline/Polyline.",
+    "published":  "2026-10-20T22:12:08Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "DC5AFE6D482A0DF74DCFC2E55B3C31458F0EBC41743A004AE0F8D9A156C97907",
+                     "value":  "9A1EC2632A48AF70A588236E41E12C264B0795EE83DAE5054AE81A007D05888C",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
