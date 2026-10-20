@@ -41,7 +41,8 @@ $tag = "$App-v$Version"
 
 # Gõ nhầm -Version là phát hành sai ngay, nên so với ProductVersion của chính file .exe.
 $fileVersion = (Get-Item -LiteralPath $installerPath).VersionInfo.ProductVersion
-if ($fileVersion -and ($fileVersion.Trim() -ne $Version)) {
+if ($fileVersion) { $fileVersion = $fileVersion.Trim() }
+if ($fileVersion -and ($fileVersion -ne $Version)) {
     throw "Version $Version không khớp ProductVersion của bộ cài ($fileVersion)."
 }
 
