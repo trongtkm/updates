@@ -1,0 +1,17 @@
+{
+    "app":  "xtoolkcc",
+    "version":  "3.3.46.174",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.174/XToolKCCSetup-3.3.46.174.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.174",
+    "notes":  "XToolKCC: bản cài song song bản test, kênh cập nhật riêng; gồm sửa icon, TLS 1.2, Ver đủ 4 số, ô Mở lại SOLIDWORKS.",
+    "published":  "2026-10-20T06:17:38Z",
+    "mandatory":  {
+                      "value":  false,
+                      "minVersion":  null,
+                      "mode":  0
+                  },
+    "checksum":  {
+                     "value":  "8374ACCB2DC91C76AF26E0E7900258534F3BEEBAA0E3D8C1F494210FFE6E8AC4",
+                     "hashingAlgorithm":  "SHA256"
+                 }
+}
