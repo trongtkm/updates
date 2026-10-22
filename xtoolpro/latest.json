@@ -1,17 +1,17 @@
 {
   "app": "xtoolpro",
-  "version": "3.3.46.180",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.180/XToolProSetup-3.3.46.180.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.180",
-  "notes": "Ap dung quy tac DXF moi cua xuong: AutoCAD R2000-2002, AutoCAD Standard Styles, duong cong ra Polyline dong; LASER_MARK layer 0_fff_0 mau vang, duong cat layer 0_0_0_0 va giu lo trong.",
-  "published": "2026-10-22T04:06:17Z",
+  "version": "3.3.46.181",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.181/XToolProSetup-3.3.46.181.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.181",
+  "notes": "Dung tuy chon spline export goc cua SOLIDWORKS; add-in khong tu chuyen SPLINE/ARC/CIRCLE thanh polyline sau khi xuat. Mac dinh chon POLYLINE theo quy tac xuong.",
+  "published": "2026-10-22T04:38:19Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "655BC0D36B4FFF9E6344CC0DDE3D9156875E64C0F1D7D699070F5506F4E682B8",
+    "value": "E9C8FB2FC492F775AA64742F082DCA270C5601B70B21F5482261743C1C931EB3",
     "hashingAlgorithm": "SHA256"
   }
 }
