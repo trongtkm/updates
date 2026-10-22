@@ -1,17 +1,17 @@
 {
-    "app":  "xtoolkcc",
-    "version":  "3.3.46.179",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.179/XToolKCCSetup-3.3.46.179.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.179",
-    "notes":  "Các tab task pane đang ẩn (Bend, Props, Marks...) không còn nghe sự kiện SolidWorks nữa, thao tác chọn/click trên 3D nhanh hơn.",
-    "published":  "2026-10-21T03:09:10Z",
-    "mandatory":  {
-                      "value":  false,
-                      "minVersion":  null,
-                      "mode":  0
-                  },
-    "checksum":  {
-                     "value":  "03925B02895CEBE46FDDC8C0C7B1DE9651746608B1A84EED2061F95BBCC8BB15",
-                     "hashingAlgorithm":  "SHA256"
-                 }
+  "app": "xtoolkcc",
+  "version": "3.3.46.180",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.180/XToolKCCSetup-3.3.46.180.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.180",
+  "notes": "Ap dung quy tac DXF moi cua xuong: AutoCAD R2000-2002, AutoCAD Standard Styles, duong cong ra Polyline dong; LASER_MARK layer 0_fff_0 mau vang, duong cat layer 0_0_0_0 va giu lo trong.",
+  "published": "2026-10-22T04:04:20Z",
+  "mandatory": {
+    "value": false,
+    "minVersion": null,
+    "mode": 0
+  },
+  "checksum": {
+    "value": "7AE7D6FC9A9A967006A01E88D9863BBB6F6CB28DF729572C0F0B2D12C28AA76D",
+    "hashingAlgorithm": "SHA256"
+  }
 }
