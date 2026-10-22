@@ -1,17 +1,17 @@
 {
-    "app":  "xtoolpro",
-    "version":  "3.3.46.173",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.173/XToolProSetup-3.3.46.173.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.173",
-    "notes":  "Bộ cài có ô \u0027Mở lại SOLIDWORKS\u0027 (tick sẵn) để tự mở lại SOLIDWORKS sau khi cài.",
-    "published":  "2026-10-20T06:01:40Z",
-    "mandatory":  {
-                      "value":  false,
-                      "minVersion":  null,
-                      "mode":  0
-                  },
-    "checksum":  {
-                     "value":  "FF164FBBFB0275C9DACA91B8D3BFE419653B18F6DBE734BF274D8C9AB6DA07A2",
-                     "hashingAlgorithm":  "SHA256"
-                 }
+  "app": "xtoolpro",
+  "version": "3.3.46.180",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.180/XToolProSetup-3.3.46.180.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.180",
+  "notes": "Ap dung quy tac DXF moi cua xuong: AutoCAD R2000-2002, AutoCAD Standard Styles, duong cong ra Polyline dong; LASER_MARK layer 0_fff_0 mau vang, duong cat layer 0_0_0_0 va giu lo trong.",
+  "published": "2026-10-22T04:06:17Z",
+  "mandatory": {
+    "value": false,
+    "minVersion": null,
+    "mode": 0
+  },
+  "checksum": {
+    "value": "655BC0D36B4FFF9E6344CC0DDE3D9156875E64C0F1D7D699070F5506F4E682B8",
+    "hashingAlgorithm": "SHA256"
+  }
 }
