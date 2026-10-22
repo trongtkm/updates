@@ -1,17 +1,17 @@
 {
   "app": "kccmanager",
-  "version": "3.3.75.0",
-  "url": "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.75.0/KCCManagerSetup-3.3.75.0.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.75.0",
-  "notes": "Sửa quy tắc thư mục lưu file khi gửi Chatwork: dùng lại thư mục hiện có chứa 工事番号; chỉ tạo 工事番号_現場名 nếu chưa có thư mục phù hợp.",
-  "published": "2026-10-21T09:45:42Z",
+  "version": "3.3.76.0",
+  "url": "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.76.0/KCCManagerSetup-3.3.76.0.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.76.0",
+  "notes": "Sửa tạo và kết thúc task 設計KCC cho người được giao gồm 管理者 và 作業者; chỉ người được giao từ Chatwork mới được hoàn thành task.",
+  "published": "2026-10-22T09:28:19Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "24E1C49B1EF96931BFD8E76E3E38A462CEE15F7E6DD38D029C16FF3AF5A41A7E",
+    "value": "8CE6F32BA6B2EC4D7510842A6610A318C88D04A5D20E98DBEF3CE52195D0EF44",
     "hashingAlgorithm": "SHA256"
   }
 }
