@@ -1,17 +1,17 @@
 {
   "app": "xtoolkcc",
-  "version": "3.3.46.183",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.183/XToolKCCSetup-3.3.46.183.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.183",
-  "notes": "DXF sau xuat tu dong xoa cac ban ghi layer khong duoc entity nao tham chieu; giu layer 0.",
-  "published": "2026-10-22T06:05:04Z",
+  "version": "3.3.46.188",
+  "url": "https://github.com/trongtkm/updates/releases/download/untagged-5864cd1fabae643809e5/XToolKCCSetup-3.3.46.188.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.188",
+  "notes": "XToolKCC chạy song song với XToolPro. DXF Flatten: mặc định dùng tùy chọn SPLINE export gốc của SOLIDWORKS; cải thiện căn tâm lỗ theo hình học và xử lý hướng/flip của Drawing View. DXF Check tiếp tục xuất tệp và hiển thị cảnh báo khi phát hiện sai lệch.",
+  "published": "2026-10-22T16:19:44Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "BC1D773D0DC5ABBD1FF21F6FA458368C0B7C49B08D0B8486ECE4FCA96CCBFBCC",
+    "value": "82A066F7F5A8AF8A6C1473066130B79C3C6169CEF97F884A34E2C2B82E29065A",
     "hashingAlgorithm": "SHA256"
   }
 }
