@@ -1,17 +1,17 @@
 {
   "app": "xtoolkcc",
-  "version": "3.3.46.181",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.181/XToolKCCSetup-3.3.46.181.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.181",
-  "notes": "Dung tuy chon spline export goc cua SOLIDWORKS; add-in khong tu chuyen SPLINE/ARC/CIRCLE thanh polyline sau khi xuat. Mac dinh chon POLYLINE theo quy tac xuong.",
-  "published": "2026-10-22T04:38:19Z",
+  "version": "3.3.46.182",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.182/XToolKCCSetup-3.3.46.182.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.182",
+  "notes": "Tab Hole trong Assembly kiem tra dong tam lo tron, lo dai va profile lo; cap nhat workbook BuzaiList.",
+  "published": "2026-10-22T05:38:40Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "B11E8D2B28C30DBEB6F0CD9637E86DD6142AAA2FC10674F1D59EAA19EED0A5E3",
+    "value": "F0F5AEF05335CD34194E4F3836F9A15D3F0816D383A95D054AF47C57D3232769",
     "hashingAlgorithm": "SHA256"
   }
 }
