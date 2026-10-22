@@ -1,7 +1,7 @@
 {
   "app": "xtoolpro",
   "version": "3.3.46.188",
-  "url": "https://github.com/trongtkm/updates/releases/download/untagged-160646afe5c3db13aa09/XToolProSetup-3.3.46.188.exe",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.188/XToolProSetup-3.3.46.188.exe",
   "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.188",
   "notes": "DXF Flatten: mặc định dùng tùy chọn SPLINE export gốc của SOLIDWORKS; cải thiện căn tâm lỗ theo hình học và xử lý hướng/flip của Drawing View. DXF Check tiếp tục xuất tệp và hiển thị cảnh báo khi phát hiện sai lệch.",
   "published": "2026-10-22T16:19:43Z",
