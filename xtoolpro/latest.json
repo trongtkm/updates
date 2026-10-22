@@ -1,17 +1,17 @@
 {
   "app": "xtoolpro",
-  "version": "3.3.46.181",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.181/XToolProSetup-3.3.46.181.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.181",
-  "notes": "Dung tuy chon spline export goc cua SOLIDWORKS; add-in khong tu chuyen SPLINE/ARC/CIRCLE thanh polyline sau khi xuat. Mac dinh chon POLYLINE theo quy tac xuong.",
-  "published": "2026-10-22T04:38:19Z",
+  "version": "3.3.46.182",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.182/XToolProSetup-3.3.46.182.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.182",
+  "notes": "Tab Hole trong Assembly kiem tra dong tam lo tron, lo dai va profile lo; cap nhat workbook BuzaiList.",
+  "published": "2026-10-22T05:38:40Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "E9C8FB2FC492F775AA64742F082DCA270C5601B70B21F5482261743C1C931EB3",
+    "value": "E6925F848064D885D51749C1954D6735A84ABE2EB78308F2FEA206D4D593ADDA",
     "hashingAlgorithm": "SHA256"
   }
 }
