@@ -1,17 +1,17 @@
 {
   "app": "xtoolpro",
-  "version": "3.3.46.183",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.183/XToolProSetup-3.3.46.183.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.183",
-  "notes": "DXF sau xuat tu dong xoa cac ban ghi layer khong duoc entity nao tham chieu; giu layer 0.",
-  "published": "2026-10-22T06:05:04Z",
+  "version": "3.3.46.188",
+  "url": "https://github.com/trongtkm/updates/releases/download/untagged-160646afe5c3db13aa09/XToolProSetup-3.3.46.188.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.188",
+  "notes": "DXF Flatten: mặc định dùng tùy chọn SPLINE export gốc của SOLIDWORKS; cải thiện căn tâm lỗ theo hình học và xử lý hướng/flip của Drawing View. DXF Check tiếp tục xuất tệp và hiển thị cảnh báo khi phát hiện sai lệch.",
+  "published": "2026-10-22T16:19:43Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "6D6850D18972BAB25A79DC368B0E9078E94A5670127CD06943FE1DF519AE8239",
+    "value": "0ED6D01934C2D73390411096B4DCC6178AF38F9C74CF9F792D2ADE4855564615",
     "hashingAlgorithm": "SHA256"
   }
 }
