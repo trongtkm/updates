@@ -1,17 +1,17 @@
 {
   "app": "xtoolpro",
-  "version": "3.3.46.182",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.182/XToolProSetup-3.3.46.182.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.182",
-  "notes": "Tab Hole trong Assembly kiem tra dong tam lo tron, lo dai va profile lo; cap nhat workbook BuzaiList.",
-  "published": "2026-10-22T05:38:40Z",
+  "version": "3.3.46.183",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.183/XToolProSetup-3.3.46.183.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.183",
+  "notes": "DXF sau xuat tu dong xoa cac ban ghi layer khong duoc entity nao tham chieu; giu layer 0.",
+  "published": "2026-10-22T06:05:04Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "E6925F848064D885D51749C1954D6735A84ABE2EB78308F2FEA206D4D593ADDA",
+    "value": "6D6850D18972BAB25A79DC368B0E9078E94A5670127CD06943FE1DF519AE8239",
     "hashingAlgorithm": "SHA256"
   }
 }
