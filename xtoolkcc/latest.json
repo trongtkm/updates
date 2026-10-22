@@ -1,17 +1,17 @@
 {
   "app": "xtoolkcc",
-  "version": "3.3.46.182",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.182/XToolKCCSetup-3.3.46.182.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.182",
-  "notes": "Tab Hole trong Assembly kiem tra dong tam lo tron, lo dai va profile lo; cap nhat workbook BuzaiList.",
-  "published": "2026-10-22T05:38:40Z",
+  "version": "3.3.46.183",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.183/XToolKCCSetup-3.3.46.183.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.183",
+  "notes": "DXF sau xuat tu dong xoa cac ban ghi layer khong duoc entity nao tham chieu; giu layer 0.",
+  "published": "2026-10-22T06:05:04Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "F0F5AEF05335CD34194E4F3836F9A15D3F0816D383A95D054AF47C57D3232769",
+    "value": "BC1D773D0DC5ABBD1FF21F6FA458368C0B7C49B08D0B8486ECE4FCA96CCBFBCC",
     "hashingAlgorithm": "SHA256"
   }
 }
