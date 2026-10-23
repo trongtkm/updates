@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.77",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.77/NestingTool_Setup_0.1.77.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.77",
-    "notes":  "NestingTool 0.1.77: sua loi buoc xoay nho (vi du 5 do) o che do Toi da bi dung giua chung vi lo xep im lang qua lau; lo nay bao tien do deu dan va app cho thoi gian theo buoc xoay. Giu nguyen lo nhanh cua 0.1.76.",
-    "published":  "2026-10-20T22:27:54Z",
+    "version":  "0.1.78",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.78/NestingTool_Setup_0.1.78.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.78",
+    "notes":  "NestingTool 0.1.78: loi xep nhanh hon, ket qua xep khong doi. Bang hinh hoc (NFP) dung lan dau nhanh khoang 3 lan (tinh bang C++), hinh chi tiet luu lai giua cac lan xep, che do Nhanh nhanh hon ~15-20%. May yeu (4 nhan) tu dung 3 tien trinh va chi ~1,7 GB RAM thay vi 3,5 GB; lo chay o uu tien thap nen may van dung duoc khi dang xep.",
+    "published":  "2026-10-23T20:33:58Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "ADFF661F5B571E88E04C9C254FC8647363DEFD2F8EB061C395BFC14981BDC80E",
+                     "value":  "098D3D970A564B14BB1F8DA6BF9C8F959B433CD64761E41DC25E81828EB37277",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
