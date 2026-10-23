@@ -1,17 +1,17 @@
 {
   "app": "kccmanager",
-  "version": "3.3.76.0",
-  "url": "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.76.0/KCCManagerSetup-3.3.76.0.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.76.0",
-  "notes": "Sửa tạo và kết thúc task 設計KCC cho người được giao gồm 管理者 và 作業者; chỉ người được giao từ Chatwork mới được hoàn thành task.",
-  "published": "2026-10-22T09:28:19Z",
+  "version": "3.3.77.0",
+  "url": "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.77.0/KCCManagerSetup-3.3.77.0.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.77.0",
+  "notes": "Sửa xử lý bỏ chọn 作業者: kết thúc task Chatwork đã giao cho người đó khi lưu 設計日報.",
+  "published": "2026-10-23T02:12:43Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "8CE6F32BA6B2EC4D7510842A6610A318C88D04A5D20E98DBEF3CE52195D0EF44",
+    "value": "10B10DC9257180250FF1D1E180F2EF9D865A659D54AF1FE55F139056541FFCD4",
     "hashingAlgorithm": "SHA256"
   }
 }
