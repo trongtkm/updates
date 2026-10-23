@@ -1,17 +1,17 @@
 {
   "app": "xtoolkcc",
-  "version": "3.3.46.188",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.188/XToolKCCSetup-3.3.46.188.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.188",
-  "notes": "XToolKCC chạy song song với XToolPro. DXF Flatten: mặc định dùng tùy chọn SPLINE export gốc của SOLIDWORKS; cải thiện căn tâm lỗ theo hình học và xử lý hướng/flip của Drawing View. DXF Check tiếp tục xuất tệp và hiển thị cảnh báo khi phát hiện sai lệch.",
-  "published": "2026-10-22T16:19:44Z",
+  "version": "3.3.46.190",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.190/XToolKCCSetup-3.3.46.190.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.190",
+  "notes": "Sửa icon tab add-in SOLIDWORKS XToolKCC theo đúng định dạng API; cải thiện đăng ký tự khởi động và log khởi tạo.",
+  "published": "2026-10-23T03:13:10Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "82A066F7F5A8AF8A6C1473066130B79C3C6169CEF97F884A34E2C2B82E29065A",
+    "value": "A47643E627590DE81038664CE096942680A6C72D01D8837C97EB718AF03590BC",
     "hashingAlgorithm": "SHA256"
   }
 }
