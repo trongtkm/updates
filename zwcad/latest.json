@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.27",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.27/ZWCADToolZwCadSetup_1.4.27.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.27",
-    "notes":  "DWG2JWW: cửa sổ DWG → JWW đầy đủ, gộp nhiều file thành một file tổng hợp trước khi chuyển",
-    "published":  "2026-10-21T05:25:01Z",
+    "version":  "1.4.28",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.28/ZWCADToolZwCadSetup_1.4.28.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.28",
+    "notes":  "Ẩn/Hiện và Group thiết kế lại, GroupManager, TitleBlock, Vẽ chung LAN (thử nghiệm), sửa lỗi đợt 1-4, Ctrl+S chỉ qua IQSAVE",
+    "published":  "2026-10-25T23:23:15Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "91BE94FD41410C64175FF38750560E95D8FE70FD0A9DF9F0E26B97570A09B806",
+                     "value":  "88B110157F2A25EDC75D5FAFBCF1445E13338BC57DAC391BF8FB8687BAAEBD01",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
