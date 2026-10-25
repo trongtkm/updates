@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.78",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.78/NestingTool_Setup_0.1.78.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.78",
-    "notes":  "NestingTool 0.1.78: loi xep nhanh hon, ket qua xep khong doi. Bang hinh hoc (NFP) dung lan dau nhanh khoang 3 lan (tinh bang C++), hinh chi tiet luu lai giua cac lan xep, che do Nhanh nhanh hon ~15-20%. May yeu (4 nhan) tu dung 3 tien trinh va chi ~1,7 GB RAM thay vi 3,5 GB; lo chay o uu tien thap nen may van dung duoc khi dang xep.",
-    "published":  "2026-10-23T20:33:58Z",
+    "version":  "0.1.79",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.79/NestingTool_Setup_0.1.79.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.79",
+    "notes":  "NestingTool 0.1.79: che do Nhanh nhanh hon nua, ket qua xep khong doi. Don mau 745 chi tiet, buoc xoay 15 do: Nhanh khoang 2 phut khi cache am (truoc 3-5 phut), khoang 4 phut khi xep lan dau (truoc ~16 phut); RAM dinh ~2,2 GB thay vi 3,5 GB. Diem dat chi tiet vao lo duoc luu lai, ca luot xep dung chung mot nhom tien trinh, che do Nhanh dung moi nhan that mot tien trinh. Tail che do Toi da nhin duong vien don gian 0,25 mm (doi duoc nhieu chi tiet hon).",
+    "published":  "2026-10-25T15:18:58Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "098D3D970A564B14BB1F8DA6BF9C8F959B433CD64761E41DC25E81828EB37277",
+                     "value":  "8A95553064DA01819E252C6BCBE3120EB39BFAB5F31E8E745A993CBA71B5FEB1",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
