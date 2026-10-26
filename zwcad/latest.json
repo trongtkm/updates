@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.31",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.31/ZWCADToolZwCadSetup_1.4.31.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.31",
-    "notes":  "Tab Block mới (đếm, đổi tên, điểm chèn, thay, tách, purge, CSV); phím tắt chung cho Nhóm/Ẩn-Hiện; không ghi đè đường dẫn ZWCAD của người dùng",
-    "published":  "2026-10-26T10:40:11Z",
+    "version":  "1.4.32",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.32/ZWCADToolZwCadSetup_1.4.32.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.32",
+    "notes":  "Sửa lỗi U không trả lại đối tượng khi tab Block đang mở; bật lại Sửa tại chỗ (UNDO, lưu file giữa phiên đã sửa)",
+    "published":  "2026-10-26T16:06:42Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "6803763A7958728D9F90ED463ED5C359B6D3C3F3870A1EFF1EB0292BFD6E1961",
+                     "value":  "A5D3770C9E4E046AC85AA8133B2B23ABB4E66915C83F0205494B4C89F1C9658B",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
