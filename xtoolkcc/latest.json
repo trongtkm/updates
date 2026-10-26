@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.192",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.192/XToolKCCSetup-3.3.46.192.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.192",
-    "notes":  "Sửa khung Xử lý lỗ không hiện khi bấm Hole / Repair Hole (bản 191). Xử lý lỗ (HoleTool): quét lỗ, kiểm tra DFM, sửa lỗ về cỡ chuẩn, dãy lỗ dọc cạnh thẳng/cung/spline.",
-    "published":  "2026-10-26T05:03:17Z",
+    "version":  "3.3.46.193",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.193/XToolKCCSetup-3.3.46.193.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.193",
+    "notes":  "Ban gop moi thay doi: HoleTool (Xu ly lo), Marks tab, Task pane UX.",
+    "published":  "2026-10-26T05:42:59Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "38E75BCDD01236477CEBFDD2612729F9E8D6F4956C5256D95C44DC3466D62C52",
+                     "value":  "C9552233334D00259AE886928C5DD8544C76CBD95C013C3F9928A42D6BF66695",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
