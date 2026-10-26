@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.28",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.28/ZWCADToolZwCadSetup_1.4.28.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.28",
-    "notes":  "Ẩn/Hiện và Group thiết kế lại, GroupManager, TitleBlock, Vẽ chung LAN (thử nghiệm), sửa lỗi đợt 1-4, Ctrl+S chỉ qua IQSAVE",
-    "published":  "2026-10-25T23:23:15Z",
+    "version":  "1.4.29",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.29/ZWCADToolZwCadSetup_1.4.29.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.29",
+    "notes":  "Dọn dẹp đợt 5: IserialNo hỏi đúng chiều cao chữ, xóa file autoload và project cũ",
+    "published":  "2026-10-26T05:24:30Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "88B110157F2A25EDC75D5FAFBCF1445E13338BC57DAC391BF8FB8687BAAEBD01",
+                     "value":  "54FD51023FD1B73D3F005530A2569F11A5ACCB08608E97189CCC943006611128",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
