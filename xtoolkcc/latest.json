@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.191",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.191/XToolKCCSetup-3.3.46.191.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.191",
-    "notes":  "Xử lý lỗ (HoleTool): nút Hole mở Tạo dãy lỗ, nút Repair Hole mở Sửa lỗ trong tab Edit — quét lỗ, kiểm tra DFM, sửa lỗ về cỡ chuẩn, dãy lỗ dọc cạnh thẳng/cung/spline; một sketch + một feature, một bước Undo. Bản test, chưa kiểm hết trong SolidWorks.",
-    "published":  "2026-10-26T04:07:42Z",
+    "version":  "3.3.46.192",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.192/XToolKCCSetup-3.3.46.192.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.192",
+    "notes":  "Sửa khung Xử lý lỗ không hiện khi bấm Hole / Repair Hole (bản 191). Xử lý lỗ (HoleTool): quét lỗ, kiểm tra DFM, sửa lỗ về cỡ chuẩn, dãy lỗ dọc cạnh thẳng/cung/spline.",
+    "published":  "2026-10-26T05:03:17Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "6CA7422DDC8B5160E797DFD624BA4F7EB573F88C0177B5B561C2CC61D3B4097B",
+                     "value":  "38E75BCDD01236477CEBFDD2612729F9E8D6F4956C5256D95C44DC3466D62C52",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
