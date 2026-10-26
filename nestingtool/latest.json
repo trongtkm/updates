@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.79",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.79/NestingTool_Setup_0.1.79.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.79",
-    "notes":  "NestingTool 0.1.79: che do Nhanh nhanh hon nua, ket qua xep khong doi. Don mau 745 chi tiet, buoc xoay 15 do: Nhanh khoang 2 phut khi cache am (truoc 3-5 phut), khoang 4 phut khi xep lan dau (truoc ~16 phut); RAM dinh ~2,2 GB thay vi 3,5 GB. Diem dat chi tiet vao lo duoc luu lai, ca luot xep dung chung mot nhom tien trinh, che do Nhanh dung moi nhan that mot tien trinh. Tail che do Toi da nhin duong vien don gian 0,25 mm (doi duoc nhieu chi tiet hon).",
-    "published":  "2026-10-25T15:18:58Z",
+    "version":  "0.1.80",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.80/NestingTool_Setup_0.1.80.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.80",
+    "notes":  "",
+    "published":  "2026-10-26T13:54:01Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "8A95553064DA01819E252C6BCBE3120EB39BFAB5F31E8E745A993CBA71B5FEB1",
+                     "value":  "20654795223DA8F9EF94F03BCAA5BA2E597A011E82CEC2B18E162DE04D9F9936",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
