@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.193",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.193/XToolKCCSetup-3.3.46.193.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.193",
-    "notes":  "Ban gop moi thay doi: HoleTool (Xu ly lo), Marks tab, Task pane UX.",
-    "published":  "2026-10-26T05:42:59Z",
+    "version":  "3.3.46.194",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.194/XToolKCCSetup-3.3.46.194.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.194",
+    "notes":  "Xử lý lỗ: cảnh báo khi đổi part sau khi quét, báo rõ khi chưa nối SolidWorks, quét nhanh hơn trên mặt lớn (PR #7).",
+    "published":  "2026-10-26T06:25:00Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "C9552233334D00259AE886928C5DD8544C76CBD95C013C3F9928A42D6BF66695",
+                     "value":  "F873C2EA012598A3F2EABD1EC27FB12E3098A8FE94FA08A7A6811BEF76732E1C",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
