@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.29",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.29/ZWCADToolZwCadSetup_1.4.29.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.29",
-    "notes":  "Dọn dẹp đợt 5: IserialNo hỏi đúng chiều cao chữ, xóa file autoload và project cũ",
-    "published":  "2026-10-26T05:24:30Z",
+    "version":  "1.4.30",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.30/ZWCADToolZwCadSetup_1.4.30.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.30",
+    "notes":  "Sửa lỗi cập nhật: bộ cài giờ chạy sau khi ZWCAD đã đóng hẳn",
+    "published":  "2026-10-26T05:48:30Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "54FD51023FD1B73D3F005530A2569F11A5ACCB08608E97189CCC943006611128",
+                     "value":  "4DEDDA14330CD53DBC58B021E201B65E543F820AC796A3A59893E597B8E13BA2",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
