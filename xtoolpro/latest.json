@@ -1,17 +1,17 @@
 {
   "app": "xtoolpro",
-  "version": "3.3.46.197",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.197/XToolProSetup-3.3.46.197.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.197",
-  "notes": "Sketch MARK giữ nguyên nét gốc kể cả khi trùng cạnh CUT; mở rộng dò owner/feature lồng nhau và thêm chẩn đoán sketch.",
-  "published": "2026-10-27T07:30:42Z",
+  "version": "3.3.46.199",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.199/XToolProSetup-3.3.46.199.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.199",
+  "notes": "Xuất sketch MARK nằm trong Sketch Block; giữ nguyên các đường mở và bảo vệ đường bao CUT khi sketch chồng lên.",
+  "published": "2026-10-27T07:57:48Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "503E0F3AA876A52EA3F1698C8E8AD93189B4DC18E631F11CE9EBC803206E3C86",
+    "value": "75F463C45CDF741ECCC800782814FF347E465A146A20DBC1D7896E1C2250E801",
     "hashingAlgorithm": "SHA256"
   }
 }
