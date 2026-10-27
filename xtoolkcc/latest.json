@@ -1,17 +1,17 @@
 {
   "app": "xtoolkcc",
-  "version": "3.3.46.200",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.200/XToolKCCSetup-3.3.46.200.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.200",
-  "notes": "Bỏ các nét sketch/view MARK trùng đường CUT; giữ nguyên đường CUT và vị trí các nét MARK còn lại.",
-  "published": "2026-10-27T08:10:39Z",
+  "version": "3.3.46.201",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.201/XToolKCCSetup-3.3.46.201.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.201",
+  "notes": "Chỉ bỏ nét MARK khi ít nhất 95% nét trùng CUT; giữ nét chỉ chạm hoặc cắt ngang CUT.",
+  "published": "2026-10-27T08:53:44Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "F101DEDF9D091A32998F3B9A37D2685480EE3613877265349B70431E1B2CAD72",
+    "value": "B4161A2664F7857254D24D2E68B6892798B32B24D2617C997039B16971821EAB",
     "hashingAlgorithm": "SHA256"
   }
 }
