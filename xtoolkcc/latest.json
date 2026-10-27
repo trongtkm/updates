@@ -3,8 +3,8 @@
   "version": "3.3.46.197",
   "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.197/XToolKCCSetup-3.3.46.197.exe",
   "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.197",
-  "notes": "Sketch MARK được giữ nguyên nét gốc kể cả khi trùng cạnh CUT; mở rộng dò owner/feature MARK lồng nhau và thêm chẩn đoán sketch.",
+  "notes": "Sketch MARK giữ nguyên nét gốc kể cả khi trùng cạnh CUT; mở rộng dò owner/feature lồng nhau và thêm chẩn đoán sketch.",
   "published": "2026-10-27T07:30:41Z",
   "mandatory": { "value": false, "minVersion": null, "mode": 0 },
-  "checksum": { "value": "736B548B95BFD74D6C74D5AC66345E6BF7ACDDC2CE6946EF5231DD907D372696", "hashingAlgorithm": "SHA256" }
+  "checksum": { "value": "F14E8DA8113202F5AFA2FEE0DA06923085950DD2F0B6692F22FBFFB1A6AEFC8B", "hashingAlgorithm": "SHA256" }
 }
