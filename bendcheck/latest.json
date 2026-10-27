@@ -1,0 +1,17 @@
+{
+    "app":  "bendcheck",
+    "version":  "0.9.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/bendcheck-v0.9.0/BendCheck-0.9.0-setup.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/bendcheck-v0.9.0",
+    "notes":  "BendCheck Studio 0.9.0 (PressTool main 061f96a): plan 27 M97-M103 (ngan sach dem, quet va cham v2, nhanh-can, phuong an tot nhat, Pareto, be tam ba nhat), M104-UX; mo hinh BendNet r8e120t. Ghi chu day du: docs/release/RELEASE_NOTES_v0.9.0.md trong repo PressTool.",
+    "published":  "2026-10-27T22:18:56Z",
+    "mandatory":  {
+                      "value":  false,
+                      "minVersion":  null,
+                      "mode":  0
+                  },
+    "checksum":  {
+                     "value":  "883CC1A7F6C12BF60047EDDDD264DAE76EF24B4917D23353B22D3BEB73C6810C",
+                     "hashingAlgorithm":  "SHA256"
+                 }
+}

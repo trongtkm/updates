@@ -12,6 +12,7 @@ manifest**; code nguồn nằm ở các repo private.
 | Grasshopper plug-in | `grasshopper/` | `grasshopper-v` |
 | KCCManager (client WPF) | `kccmanager/` | `kccmanager-v` |
 | NestingTool (xếp phôi độc lập) | `nestingtool/` | `nestingtool-v` |
+| BendCheck Studio (mô phỏng chấn, repo PressTool) | `bendcheck/` | `bendcheck-v` |
 
 ## Quy ước
 
