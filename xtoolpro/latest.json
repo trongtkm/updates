@@ -1,17 +1,10 @@
 {
   "app": "xtoolpro",
-  "version": "3.3.46.196",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.196/XToolProSetup-3.3.46.196.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.196",
-  "notes": "Sửa xuất DXF: xuất sketch MARK sau Flat-Pattern dù Display sketches tắt hoặc trạng thái feature là Hide; sketch bị suppress vẫn bị bỏ qua.",
-  "published": "2026-10-27T07:05:16Z",
-  "mandatory": {
-    "value": false,
-    "minVersion": null,
-    "mode": 0
-  },
-  "checksum": {
-    "value": "A8340F21362C33999D69E127BE61BA04162DB2920210C73B6B857E46F592996E",
-    "hashingAlgorithm": "SHA256"
-  }
+  "version": "3.3.46.197",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.197/XToolProSetup-3.3.46.197.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.197",
+  "notes": "Sketch MARK được giữ nguyên nét gốc kể cả khi trùng cạnh CUT; mở rộng dò owner/feature MARK lồng nhau và thêm chẩn đoán sketch.",
+  "published": "2026-10-27T07:30:42Z",
+  "mandatory": { "value": false, "minVersion": null, "mode": 0 },
+  "checksum": { "value": "997E2B200ADF524892A018B7ACAE7B3E5FDEC58B05312F6C6412B5E397C7D3D6", "hashingAlgorithm": "SHA256" }
 }
