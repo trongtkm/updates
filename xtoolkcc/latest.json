@@ -1,17 +1,17 @@
 {
   "app": "xtoolkcc",
-  "version": "3.3.46.195",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.195/XToolKCCSetup-3.3.46.195.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.195",
-  "notes": "Sửa xuất DXF: nhận sketch part có layer chứa MARK và giữ sketch khi trạng thái hiển thị trong Drawing View là Unknown (bản XToolKCC chạy song song).",
-  "published": "2026-10-27T06:59:49Z",
+  "version": "3.3.46.196",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.196/XToolKCCSetup-3.3.46.196.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.196",
+  "notes": "Bản XToolKCC chạy song song: xuất sketch MARK sau Flat-Pattern dù Display sketches tắt hoặc trạng thái feature là Hide; sketch bị suppress vẫn bị bỏ qua.",
+  "published": "2026-10-27T07:07:19Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "288DFDF2E54505FE33AFB25D362B959D1E56447C7AB6A26C2731A8D9C3F11014",
+    "value": "BEFA1EFBEAEEE428D71E5A1BFE26A497EA348C99656ABE06AE327488B3204665",
     "hashingAlgorithm": "SHA256"
   }
 }
