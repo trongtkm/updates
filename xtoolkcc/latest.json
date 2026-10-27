@@ -1,17 +1,17 @@
 {
   "app": "xtoolkcc",
-  "version": "3.3.46.197",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.197/XToolKCCSetup-3.3.46.197.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.197",
-  "notes": "Sketch MARK giữ nguyên nét gốc kể cả khi trùng cạnh CUT; mở rộng dò owner/feature lồng nhau và thêm chẩn đoán sketch.",
-  "published": "2026-10-27T07:30:41Z",
+  "version": "3.3.46.199",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.199/XToolKCCSetup-3.3.46.199.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.199",
+  "notes": "Xuất sketch MARK nằm trong Sketch Block; giữ nguyên các đường mở và bảo vệ đường bao CUT khi sketch chồng lên.",
+  "published": "2026-10-27T07:59:13Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "327628AB9A8BB2539D9AA313912A36D714A7383EA5E3F4469F0A80289F94C80C",
+    "value": "2E5186277692CA4C0C0D27EF8FCBFF2490E7E24A865BA6DDF01CC0251A24E543",
     "hashingAlgorithm": "SHA256"
   }
 }
