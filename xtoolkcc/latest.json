@@ -1,17 +1,10 @@
 {
   "app": "xtoolkcc",
-  "version": "3.3.46.196",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.196/XToolKCCSetup-3.3.46.196.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.196",
-  "notes": "Bản XToolKCC chạy song song: xuất sketch MARK sau Flat-Pattern dù Display sketches tắt hoặc trạng thái feature là Hide; sketch bị suppress vẫn bị bỏ qua.",
-  "published": "2026-10-27T07:07:19Z",
-  "mandatory": {
-    "value": false,
-    "minVersion": null,
-    "mode": 0
-  },
-  "checksum": {
-    "value": "BEFA1EFBEAEEE428D71E5A1BFE26A497EA348C99656ABE06AE327488B3204665",
-    "hashingAlgorithm": "SHA256"
-  }
+  "version": "3.3.46.197",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.197/XToolKCCSetup-3.3.46.197.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.197",
+  "notes": "Sketch MARK được giữ nguyên nét gốc kể cả khi trùng cạnh CUT; mở rộng dò owner/feature MARK lồng nhau và thêm chẩn đoán sketch.",
+  "published": "2026-10-27T07:30:41Z",
+  "mandatory": { "value": false, "minVersion": null, "mode": 0 },
+  "checksum": { "value": "736B548B95BFD74D6C74D5AC66345E6BF7ACDDC2CE6946EF5231DD907D372696", "hashingAlgorithm": "SHA256" }
 }
