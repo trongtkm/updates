@@ -1,17 +1,17 @@
 {
-    "app":  "xtoolkcc",
-    "version":  "3.3.46.194",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.194/XToolKCCSetup-3.3.46.194.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.194",
-    "notes":  "Xử lý lỗ: cảnh báo khi đổi part sau khi quét, báo rõ khi chưa nối SolidWorks, quét nhanh hơn trên mặt lớn (PR #7).",
-    "published":  "2026-10-26T06:25:00Z",
-    "mandatory":  {
-                      "value":  false,
-                      "minVersion":  null,
-                      "mode":  0
-                  },
-    "checksum":  {
-                     "value":  "F873C2EA012598A3F2EABD1EC27FB12E3098A8FE94FA08A7A6811BEF76732E1C",
-                     "hashingAlgorithm":  "SHA256"
-                 }
+  "app": "xtoolkcc",
+  "version": "3.3.46.195",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.195/XToolKCCSetup-3.3.46.195.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.195",
+  "notes": "Sửa xuất DXF: nhận sketch part có layer chứa MARK và giữ sketch khi trạng thái hiển thị trong Drawing View là Unknown (bản XToolKCC chạy song song).",
+  "published": "2026-10-27T06:59:49Z",
+  "mandatory": {
+    "value": false,
+    "minVersion": null,
+    "mode": 0
+  },
+  "checksum": {
+    "value": "288DFDF2E54505FE33AFB25D362B959D1E56447C7AB6A26C2731A8D9C3F11014",
+    "hashingAlgorithm": "SHA256"
+  }
 }
