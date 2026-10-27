@@ -5,6 +5,13 @@
   "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.197",
   "notes": "Sketch MARK giữ nguyên nét gốc kể cả khi trùng cạnh CUT; mở rộng dò owner/feature lồng nhau và thêm chẩn đoán sketch.",
   "published": "2026-10-27T07:30:41Z",
-  "mandatory": { "value": false, "minVersion": null, "mode": 0 },
-  "checksum": { "value": "F14E8DA8113202F5AFA2FEE0DA06923085950DD2F0B6692F22FBFFB1A6AEFC8B", "hashingAlgorithm": "SHA256" }
+  "mandatory": {
+    "value": false,
+    "minVersion": null,
+    "mode": 0
+  },
+  "checksum": {
+    "value": "327628AB9A8BB2539D9AA313912A36D714A7383EA5E3F4469F0A80289F94C80C",
+    "hashingAlgorithm": "SHA256"
+  }
 }
