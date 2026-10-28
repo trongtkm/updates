@@ -1,17 +1,17 @@
 {
-  "app": "kccmanager",
-  "version": "3.3.77.0",
-  "url": "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.77.0/KCCManagerSetup-3.3.77.0.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.77.0",
-  "notes": "Sửa xử lý bỏ chọn 作業者: kết thúc task Chatwork đã giao cho người đó khi lưu 設計日報.",
-  "published": "2026-10-23T02:12:43Z",
-  "mandatory": {
-    "value": false,
-    "minVersion": null,
-    "mode": 0
-  },
-  "checksum": {
-    "value": "10B10DC9257180250FF1D1E180F2EF9D865A659D54AF1FE55F139056541FFCD4",
-    "hashingAlgorithm": "SHA256"
-  }
+    "app":  "kccmanager",
+    "version":  "3.3.79.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/KCCManager-v3.3.79.0/KCCManagerSetup-3.3.79.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/KCCManager-v3.3.79.0",
+    "notes":  "Nut noi goc tren ben phai xac nhan gio vao / gio ket thuc tang ca (chi hien khi xac nhan duoc); tuy chon chay dang mini app duoi khay.",
+    "published":  "2026-10-28T08:08:38Z",
+    "mandatory":  {
+                      "value":  false,
+                      "minVersion":  null,
+                      "mode":  0
+                  },
+    "checksum":  {
+                     "value":  "C38D046EDFE9B1221B24B78E380685CDD5EB847DE9D0665FAF3327B8735F500A",
+                     "hashingAlgorithm":  "SHA256"
+                 }
 }
