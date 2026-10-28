@@ -1,17 +1,17 @@
 {
-  "app": "xtoolkcc",
-  "version": "3.3.46.201",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.201/XToolKCCSetup-3.3.46.201.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.201",
-  "notes": "Chỉ bỏ nét MARK khi ít nhất 95% nét trùng CUT; giữ nét chỉ chạm hoặc cắt ngang CUT.",
-  "published": "2026-10-27T08:53:44Z",
-  "mandatory": {
-    "value": false,
-    "minVersion": null,
-    "mode": 0
-  },
-  "checksum": {
-    "value": "B4161A2664F7857254D24D2E68B6892798B32B24D2617C997039B16971821EAB",
-    "hashingAlgorithm": "SHA256"
-  }
+    "app":  "xtoolkcc",
+    "version":  "3.3.46.204",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.204/XToolKCCSetup-3.3.46.204.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.204",
+    "notes":  "Thêm tab quản trị «AI học» (DrawLearn): Tạo 2D, Tạo 3D từ mẫu, Hoàn thiện 3D. Phần 3D cần DrawLearn Server 0.5.2.",
+    "published":  "2026-10-28T08:25:37Z",
+    "mandatory":  {
+                      "value":  false,
+                      "minVersion":  null,
+                      "mode":  0
+                  },
+    "checksum":  {
+                     "value":  "F6D12943C1FDE8764CB9E7EE107865DA163389C6A758989E523A30B494E44EFC",
+                     "hashingAlgorithm":  "SHA256"
+                 }
 }
