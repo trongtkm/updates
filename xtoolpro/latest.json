@@ -1,17 +1,17 @@
 {
   "app": "xtoolpro",
-  "version": "3.3.46.201",
-  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.201/XToolProSetup-3.3.46.201.exe",
-  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.201",
-  "notes": "Chỉ bỏ nét MARK khi ít nhất 95% nét trùng CUT; giữ nét chỉ chạm hoặc cắt ngang CUT.",
-  "published": "2026-10-27T08:53:44Z",
+  "version": "3.3.46.205",
+  "url": "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.205/XToolProSetup-3.3.46.205.exe",
+  "changelog": "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.205",
+  "notes": "Dong goi day du thu muc swTemplete theo source; cac template duoc cap nhat khi cai dat hoac cap nhat XToolPro. Dong bo tab AI hoc theo DrawLearn 0.6.3.",
+  "published": "2026-10-29T03:12:06Z",
   "mandatory": {
     "value": false,
     "minVersion": null,
     "mode": 0
   },
   "checksum": {
-    "value": "AA60030F56B0CF8DBF2A08EB5585FA367AC5BE2E5C20A260901FE5DDB14D8D7D",
+    "value": "F30967EF9B8ACD413B5FE9FEF71660C10E8D7BE270CA962095789F171FEC37C1",
     "hashingAlgorithm": "SHA256"
   }
 }
