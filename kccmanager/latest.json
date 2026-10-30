@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.79.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/KCCManager-v3.3.79.0/KCCManagerSetup-3.3.79.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/KCCManager-v3.3.79.0",
-    "notes":  "Nut noi goc tren ben phai xac nhan gio vao / gio ket thuc tang ca (chi hien khi xac nhan duoc); tuy chon chay dang mini app duoi khay.",
-    "published":  "2026-10-28T08:08:38Z",
+    "version":  "3.3.80.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.80.0/KCCManagerSetup-3.3.80.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.80.0",
+    "notes":  "3.3.80.0: đồng bộ POP - cùng 手配番号 khác 工事番号 là đơn riêng, đơn mới hơn nằm sau; nhập cả file đơn PIA tên Oex\u003csố\u003e.json; 日報 chọn đơn mới nhất.",
+    "published":  "2026-10-30T19:28:06Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "C38D046EDFE9B1221B24B78E380685CDD5EB847DE9D0665FAF3327B8735F500A",
+                     "value":  "FC55D06B5EF1849CF598FA82AC1389157FFB6DBF4EF446483D5319D53E5B9C0D",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
