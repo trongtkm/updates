@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.80.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.80.0/KCCManagerSetup-3.3.80.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.80.0",
-    "notes":  "3.3.80.0: đồng bộ POP - cùng 手配番号 khác 工事番号 là đơn riêng, đơn mới hơn nằm sau; nhập cả file đơn PIA tên Oex\u003csố\u003e.json; 日報 chọn đơn mới nhất.",
-    "published":  "2026-10-30T19:28:06Z",
+    "version":  "3.3.81.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.81.0/KCCManagerSetup-3.3.81.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.81.0",
+    "notes":  "3.3.81.0: バラ図手配番号 them cot thong tin POP (工事番号, 工事名, 項目名, 発行日, 納期...) va tuy chon 古い手配番号を隠す (mac dinh an 手配番号 cu).",
+    "published":  "2026-10-30T19:52:54Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "FC55D06B5EF1849CF598FA82AC1389157FFB6DBF4EF446483D5319D53E5B9C0D",
+                     "value":  "5859B5E9A22CDDFD5C32A5815593EB2B5AE520550F68E054836418D7C6C6D6EE",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
