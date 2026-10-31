@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.80",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.80/NestingTool_Setup_0.1.80.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.80",
-    "notes":  "",
-    "published":  "2026-10-26T13:54:01Z",
+    "version":  "0.1.81",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.81/NestingTool_Setup_0.1.81.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.81",
+    "notes":  "Nut Dung nay dung han bo giai. Tu choi bo cuc khong hop le. Dong tien do ghi ten khau dang chay.",
+    "published":  "2026-10-31T03:50:00Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "20654795223DA8F9EF94F03BCAA5BA2E597A011E82CEC2B18E162DE04D9F9936",
+                     "value":  "9C4489F18C5669A65D43CF704D0094E9ACC217D93C9859962FA04E54A74E9F7B",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
