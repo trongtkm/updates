@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.81.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.81.0/KCCManagerSetup-3.3.81.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.81.0",
-    "notes":  "3.3.81.0: バラ図手配番号 them cot thong tin POP (工事番号, 工事名, 項目名, 発行日, 納期...) va tuy chon 古い手配番号を隠す (mac dinh an 手配番号 cu).",
-    "published":  "2026-10-30T19:52:54Z",
+    "version":  "3.3.84.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.84.0/KCCManagerSetup-3.3.84.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.84.0",
+    "notes":  "Bam shortcut khi app dang chay ngam/duoi khay thi hien cua so dang chay, khong mo them ban. Nut noi ngay nghi 08:00-17:00 nhac Bao tang ca.",
+    "published":  "2026-10-31T02:10:11Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "5859B5E9A22CDDFD5C32A5815593EB2B5AE520550F68E054836418D7C6C6D6EE",
+                     "value":  "BE95EE45D5664F6201261C0ED3A020EE360E42EF8F1B8A5D490B7F3D23309BCF",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
