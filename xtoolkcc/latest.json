@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.205",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.205/XToolKCCSetup-3.3.46.205.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.205",
-    "notes":  "AI học (DrawLearn): đồng bộ DrawLearn 0.6.3 – nhật ký hoạt động, cache, ghi nhận 2D/3D cải tiến.",
-    "published":  "2026-10-28T14:32:55Z",
+    "version":  "3.3.46.206",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.206/XToolKCCSetup-3.3.46.206.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.206",
+    "notes":  "AI học: đồng bộ với SwModuleTool DrawLearn 1.2.0 — gói chính sách có chữ ký, phiếu phản hồi, Hoàn thiện bản vẽ, Thư viện học, thẻ gợi ý trong tab.",
+    "published":  "2026-10-31T08:14:00Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "0EDECE18AC37A4AA64CDBD404DAA0A0489A4DD2C6504235405B803E975B4D889",
+                     "value":  "BD92EBDC2DFDF5B1F6283F3AE96343ADAF77F1DED78234E2C6FF323538EB3ECB",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
