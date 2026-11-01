@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.32",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.32/ZWCADToolZwCadSetup_1.4.32.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.32",
-    "notes":  "Sửa lỗi U không trả lại đối tượng khi tab Block đang mở; bật lại Sửa tại chỗ (UNDO, lưu file giữa phiên đã sửa)",
-    "published":  "2026-10-26T16:06:42Z",
+    "version":  "1.4.33",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.33/ZWCADToolZwCadSetup_1.4.33.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.33",
+    "notes":  "Bộ icon mới cho toàn bộ nút ribbon, bảng module và icon ứng dụng; sửa lỗi nút module lấy nhầm icon.",
+    "published":  "2026-11-01T04:56:26Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "A5D3770C9E4E046AC85AA8133B2B23ABB4E66915C83F0205494B4C89F1C9658B",
+                     "value":  "7D817D77EA607F8537DF70E70772EE020ABF0C6724A3C82942E96A2AEA3183A2",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
