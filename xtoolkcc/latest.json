@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.206",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.206/XToolKCCSetup-3.3.46.206.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.206",
-    "notes":  "AI học: đồng bộ với SwModuleTool DrawLearn 1.2.0 — gói chính sách có chữ ký, phiếu phản hồi, Hoàn thiện bản vẽ, Thư viện học, thẻ gợi ý trong tab.",
-    "published":  "2026-10-31T08:14:00Z",
+    "version":  "3.3.46.207",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.207/XToolKCCSetup-3.3.46.207.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.207",
+    "notes":  "Flatten→DXF: không xuất DXF cho part có bản vẽ 2D tham chiếu part khác; báo lỗi trong danh sách báo cáo.",
+    "published":  "2026-11-02T06:06:37Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "BD92EBDC2DFDF5B1F6283F3AE96343ADAF77F1DED78234E2C6FF323538EB3ECB",
+                     "value":  "816FB9C158924BB97F24F3E61ADA33ACC22CD8F6A422125175AAF958BC488B4A",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
