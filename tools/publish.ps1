@@ -34,6 +34,25 @@ param(
 
 $ErrorActionPreference = "Stop"
 
+# git và gh ghi cảnh báo (vd. "LF will be replaced by CRLF") ra stderr. Với "Stop", PowerShell 5.1 biến dòng stderr đó
+# thành lỗi khi stderr bị chuyển hướng và dừng giữa chừng sau khi release đã tạo. Chạy lệnh ngoài với "Continue",
+# in stderr như chữ thường, chỉ dựa vào mã thoát.
+function Invoke-Native([string]$Exe, [string[]]$Arguments) {
+    $saved = $ErrorActionPreference
+    $ErrorActionPreference = "Continue"
+    try { & $Exe @Arguments 2>&1 | ForEach-Object { "$_" } | Out-Host } finally { $ErrorActionPreference = $saved }
+    return $LASTEXITCODE
+}
+
+# git không có trong PATH trên máy dùng GitHub Desktop: lấy bản đi kèm.
+$git = (Get-Command git -ErrorAction SilentlyContinue).Source
+if (-not $git) {
+    $git = Get-ChildItem "$env:LOCALAPPDATA\GitHubDesktop\app-*\resources\app\git\cmd\git.exe" -ErrorAction SilentlyContinue |
+        Sort-Object { [version]($_.Directory.Parent.Parent.Parent.Parent.Name -replace '^app-', '') } -Descending | Select-Object -First 1 -ExpandProperty FullName
+}
+$gh = (Get-Command gh -ErrorAction SilentlyContinue).Source
+if (-not $gh -and (Test-Path "$env:ProgramFiles\GitHub CLI\gh.exe")) { $gh = "$env:ProgramFiles\GitHub CLI\gh.exe" }
+
 $root = Split-Path -Parent $PSScriptRoot
 $installerPath = (Resolve-Path $Installer).Path
 $assetName = Split-Path -Leaf $installerPath
@@ -56,14 +75,14 @@ if (Test-Path -LiteralPath $currentManifest) {
 }
 
 if (-not $DryRun) {
-    if (-not (Get-Command gh -ErrorAction SilentlyContinue)) {
+    if (-not $git) { throw "Không tìm thấy git (PATH hoặc GitHub Desktop)." }
+    if (-not $gh) {
         throw "Chưa có GitHub CLI (gh). Cài từ https://cli.github.com/ rồi chạy 'gh auth login'."
     }
     Push-Location $root
     try {
-        if (git status --porcelain) { throw "Repo updates còn thay đổi chưa commit. Dọn trước rồi chạy lại." }
-        git pull --ff-only
-        if ($LASTEXITCODE -ne 0) { throw "git pull thất bại." }
+        if (& $git status --porcelain) { throw "Repo updates còn thay đổi chưa commit. Dọn trước rồi chạy lại." }
+        if ((Invoke-Native $git @('pull', '--ff-only')) -ne 0) { throw "git pull thất bại." }
     } finally { Pop-Location }
 }
 
@@ -102,8 +121,7 @@ if ($DryRun) {
 $notesText = if ($Notes) { $Notes } else { "$App $Version" }
 $notesText += "`n`nSHA256: ``$sha256``"
 
-gh release create $tag $installerPath --repo $Repo --title "$App $Version" --notes $notesText
-if ($LASTEXITCODE -ne 0) { throw "Tạo release $tag thất bại (tag đã có?)." }
+if ((Invoke-Native $gh @('release', 'create', $tag, $installerPath, '--repo', $Repo, '--title', "$App $Version", '--notes', $notesText)) -ne 0) { throw "Tạo release $tag thất bại (tag đã có?)." }
 
 $appDir = Join-Path $root $App
 New-Item -ItemType Directory -Force -Path $appDir | Out-Null
@@ -112,11 +130,9 @@ $manifestPath = Join-Path $appDir "latest.json"
 
 Push-Location $root
 try {
-    git add -- "$App/latest.json"
-    git commit -m "$App $Version"
-    if ($LASTEXITCODE -ne 0) { throw "git commit thất bại." }
-    git push
-    if ($LASTEXITCODE -ne 0) { throw "git push thất bại. Release đã tạo; push lại tay để cập nhật manifest." }
+    if ((Invoke-Native $git @('add', '--', "$App/latest.json")) -ne 0) { throw "git add thất bại." }
+    if ((Invoke-Native $git @('commit', '-m', "$App $Version")) -ne 0) { throw "git commit thất bại." }
+    if ((Invoke-Native $git @('push')) -ne 0) { throw "git push thất bại. Release đã tạo; push lại tay để cập nhật manifest." }
 } finally { Pop-Location }
 
 Write-Host "`nXong: $releaseUrl"
