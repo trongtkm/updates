@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.84.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.84.0/KCCManagerSetup-3.3.84.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.84.0",
-    "notes":  "Bam shortcut khi app dang chay ngam/duoi khay thi hien cua so dang chay, khong mo them ban. Nut noi ngay nghi 08:00-17:00 nhac Bao tang ca.",
-    "published":  "2026-10-31T02:10:11Z",
+    "version":  "3.3.85.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.85.0/KCCManagerSetup-3.3.85.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.85.0",
+    "notes":  "Nut noi xac nhan gio: dau X de tam an; khong co don tang ca thi khong hien. Bang cham cong: tinh ngay di lam T7/CN/le khi co don tang ca da xac nhan gio.",
+    "published":  "2026-11-02T05:40:52Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "BE95EE45D5664F6201261C0ED3A020EE360E42EF8F1B8A5D490B7F3D23309BCF",
+                     "value":  "8DC23CEED97918BCA19E6D609FD4593BD4678D2C255F79449ABDD0664185F48D",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
