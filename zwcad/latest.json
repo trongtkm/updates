@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.33",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.33/ZWCADToolZwCadSetup_1.4.33.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.33",
-    "notes":  "Bộ icon mới cho toàn bộ nút ribbon, bảng module và icon ứng dụng; sửa lỗi nút module lấy nhầm icon.",
-    "published":  "2026-11-01T04:56:26Z",
+    "version":  "1.4.34",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.34/ZWCADToolZwCadSetup_1.4.34.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.34",
+    "notes":  "Giao dien 3 ngon ngu (Viet/Nhat/Anh) chon trong Cai dat; ten module/tab/nhom/nut doi theo ngon ngu; cua so Cai dat moi; bo trang admin/chu san.",
+    "published":  "2026-11-03T07:31:58Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "7D817D77EA607F8537DF70E70772EE020ABF0C6724A3C82942E96A2AEA3183A2",
+                     "value":  "5D4A793FE3DB1C91DC1BD32E180BA0C1C8502858323777A37B3412FE2D5FB502",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
