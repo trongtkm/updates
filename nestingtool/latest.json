@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.82",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.82/NestingTool_Setup_0.1.82.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.82",
-    "notes":  "Ban in bao cao: so do tam khong con bi thu nho khi mot tam co bang chi tiet dai; bang chi tiet dai sang trang \u0027tiep theo\u0027.",
-    "published":  "2026-11-02T06:38:26Z",
+    "version":  "0.1.83",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.83/NestingTool_Setup_0.1.83.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.83",
+    "notes":  "Canh bao loi ro rang: kiem dau vao truoc khi xep (qua kho tam, bien ho/chap/tu cat, lo tho ra ngoai, so luong, gioi han so tam); danh sach chi tiet khong xep duoc kem ly do; loi kem cach xu ly.",
+    "published":  "2026-11-06T20:33:53Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "679E6B371ED6B4A455B3AE3ED2A44A270D75456E61C38043760E16B589BCA5F5",
+                     "value":  "C2956EECA2DD3F8A32B53F194373E70B2D7702F501009125B66C90D23755F976",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
