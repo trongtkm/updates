@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.207",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.207/XToolKCCSetup-3.3.46.207.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.207",
-    "notes":  "Flatten→DXF: không xuất DXF cho part có bản vẽ 2D tham chiếu part khác; báo lỗi trong danh sách báo cáo.",
-    "published":  "2026-11-02T06:06:37Z",
+    "version":  "3.3.46.208",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.208/XToolKCCSetup-3.3.46.208.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.208",
+    "notes":  "AI học: đồng bộ thuật toán với DrawLearn server 1.4.0",
+    "published":  "2026-11-07T05:42:14Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "816FB9C158924BB97F24F3E61ADA33ACC22CD8F6A422125175AAF958BC488B4A",
+                     "value":  "DFBE70F5BA002F55AD588224D30E3826458C37CD1D165579B3694329823D3450",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
