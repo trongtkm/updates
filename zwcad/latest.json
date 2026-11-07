@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.34",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.34/ZWCADToolZwCadSetup_1.4.34.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.34",
-    "notes":  "Giao dien 3 ngon ngu (Viet/Nhat/Anh) chon trong Cai dat; ten module/tab/nhom/nut doi theo ngon ngu; cua so Cai dat moi; bo trang admin/chu san.",
-    "published":  "2026-11-03T07:31:58Z",
+    "version":  "1.4.35",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.35/ZWCADToolZwCadSetup_1.4.35.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.35",
+    "notes":  "Host: thêm thanh cuộn cho dải tab khi chữ tab xoay dọc",
+    "published":  "2026-11-07T07:18:48Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "5D4A793FE3DB1C91DC1BD32E180BA0C1C8502858323777A37B3412FE2D5FB502",
+                     "value":  "868212734AE44FD3D83F516F009698DEEC96E501942DE67A8E758A7BE4E27014",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
