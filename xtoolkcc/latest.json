@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.208",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.208/XToolKCCSetup-3.3.46.208.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.208",
-    "notes":  "AI học: đồng bộ thuật toán với DrawLearn server 1.4.0",
-    "published":  "2026-11-07T05:42:14Z",
+    "version":  "3.3.46.209",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.209/XToolKCCSetup-3.3.46.209.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.209",
+    "notes":  "AI học Đợt 8: gửi bản module, ngưỡng tự tin của máy chủ, bản vẽ lắp ghi đúng họ",
+    "published":  "2026-11-07T09:58:52Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "DFBE70F5BA002F55AD588224D30E3826458C37CD1D165579B3694329823D3450",
+                     "value":  "FA661054BA6B75A90448BAC09608185F0385823C4893E52F02EE803DC1CC9A41",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
