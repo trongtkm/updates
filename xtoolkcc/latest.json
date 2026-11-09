@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.217",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.217/XToolKCCSetup-3.3.46.217.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.217",
-    "notes":  "DXF: doc ca sketch MARK dang an hoac khi ban ve tat Display sketches; ghi log chi tiet tung sketch MARK va tai lieu bi danh dau da sua trong luot xuat de tim nguyen nhan bat luu.",
-    "published":  "2026-11-09T09:26:04Z",
+    "version":  "3.3.46.218",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.218/XToolKCCSetup-3.3.46.218.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.218",
+    "notes":  "3.3.46.218: Flatten-\u003eDXF nhanh hon (loc net MARK trung theo luoi, net sketch MARK bo diem thua \u003c= 0.005 mm, DXF nho hon); DXF Check chay tren ban sao tam cua part; file sach truoc khi xuat ma bi danh dau da sua thi tu luu lai (khong con bat luu hang loat).",
+    "published":  "2026-11-09T10:01:37Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "4C4961FA4677DC0E2FC8D897211C84DF737D7F894699AFF6A502F108E2AE0A81",
+                     "value":  "4F894010F7BE8A79014686F96115DDEE055627C035B49B7E5BEBC78C7454814B",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
