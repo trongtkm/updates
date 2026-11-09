@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.213",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.213/XToolKCCSetup-3.3.46.213.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.213",
-    "notes":  "Luu dinh dang Drawing 1:1: sua loi khong phong file DXF ve kich thuoc that.",
-    "published":  "2026-11-09T03:14:40Z",
+    "version":  "3.3.46.214",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.214/XToolKCCSetup-3.3.46.214.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.214",
+    "notes":  "Luu dinh dang Drawing DXF 1:1: lay ti le view Flatten lam ti le goc, phong DXF ve kich thuoc that ke ca khi sheet da la 1:1.",
+    "published":  "2026-11-09T03:35:31Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "E368E1B16A6431CFD087375CD1B1E097FC05F4FF50AA72D2277AC9D7774E8930",
+                     "value":  "6EC1832B24901CE8D2F6B52F98C8DB5E690AA6EE80BF4CB988BEC54EDB96BDE7",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
