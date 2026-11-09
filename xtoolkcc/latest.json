@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.216",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.216/XToolKCCSetup-3.3.46.216.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.216",
-    "notes":  "AI hoc (DrawLearn): gui kem ten may tinh de bang May tram tren trang quan tri may chu hien dung ten may.",
-    "published":  "2026-11-09T04:58:29Z",
+    "version":  "3.3.46.217",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.217/XToolKCCSetup-3.3.46.217.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.217",
+    "notes":  "DXF: doc ca sketch MARK dang an hoac khi ban ve tat Display sketches; ghi log chi tiet tung sketch MARK va tai lieu bi danh dau da sua trong luot xuat de tim nguyen nhan bat luu.",
+    "published":  "2026-11-09T09:26:04Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "2EE3E4E39FD15D2E4B706B2BCE70F6512AA72CD03B76C35940B520A5FC0886DF",
+                     "value":  "4C4961FA4677DC0E2FC8D897211C84DF737D7F894699AFF6A502F108E2AE0A81",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
