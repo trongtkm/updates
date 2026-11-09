@@ -112,6 +112,9 @@ $manifest = [ordered]@{
     }
 }
 $json = $manifest | ConvertTo-Json -Depth 5
+# Chữ có dấu ghi dạng \uXXXX: AutoUpdater.NET đọc manifest bằng bảng mã mặc định của Windows
+# (Shift-JIS trên máy tiếng Nhật), byte UTF-8 có thể nuốt dấu " và làm hỏng JSON (bản 209).
+$json = [regex]::Replace($json, '[^\x00-\x7F]', { param($m) '\u{0:x4}' -f [int][char]$m.Value })
 
 if ($DryRun) {
     Write-Host "`n[DryRun] latest.json sẽ là:`n$json"
