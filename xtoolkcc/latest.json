@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.209",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.209/XToolKCCSetup-3.3.46.209.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.209",
-    "notes":  "AI học Đợt 8: gửi bản module, ngưỡng tự tin của máy chủ, bản vẽ lắp ghi đúng họ",
-    "published":  "2026-11-07T09:58:52Z",
+    "version":  "3.3.46.210",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.210/XToolKCCSetup-3.3.46.210.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.210",
+    "notes":  "Luu dinh dang: lay danh sach tu Doc BOM / Doc nhanh; chon xuat Part hoac Drawing; Drawing DXF/DWG chon ti le 1:1 theo Flatten hoac giu nguyen; Drawing chi hien DXF, DWG, PDF.",
+    "published":  "2026-11-09T02:04:43Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "FA661054BA6B75A90448BAC09608185F0385823C4893E52F02EE803DC1CC9A41",
+                     "value":  "26F0C05ADBFFBF35CF02AE222698D9A0F0AE50E66E228747A3C119D24147F379",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
