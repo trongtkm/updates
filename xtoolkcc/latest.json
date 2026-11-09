@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.211",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.211/XToolKCCSetup-3.3.46.211.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.211",
-    "notes":  "Luu dinh dang Drawing: sua loi luu DXF/DWG that bai; hien ly do loi tung file; ten file theo tehai-bango / buhin-bango; kiem tra ti le view theo sheet.",
-    "published":  "2026-11-09T02:29:42Z",
+    "version":  "3.3.46.212",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.212/XToolKCCSetup-3.3.46.212.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.212",
+    "notes":  "Luu dinh dang Drawing 1:1 theo Flatten: phong file DXF ve kich thuoc that; DWG van theo ti le sheet.",
+    "published":  "2026-11-09T02:47:19Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "DBD94CADC1C39F87F5E6C2F20546F0548F87264A9008453F7B423D078AD02CCB",
+                     "value":  "768D8BCE160C92E30CE383FE73BB4E988042CEA528CA63A59AF9E66DEEFE5A83",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
