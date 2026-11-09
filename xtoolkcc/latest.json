@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.214",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.214/XToolKCCSetup-3.3.46.214.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.214",
-    "notes":  "Luu dinh dang Drawing DXF 1:1: lay ti le view Flatten lam ti le goc, phong DXF ve kich thuoc that ke ca khi sheet da la 1:1.",
-    "published":  "2026-11-09T03:35:31Z",
+    "version":  "3.3.46.215",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.215/XToolKCCSetup-3.3.46.215.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.215",
+    "notes":  "Luu dinh dang Drawing DXF/DWG 1:1: bat 1:1 Scale output cua SOLIDWORKS voi Base scale = ti le view Flatten; DXF tu do va du phong phong file; hop ket qua ghi ti le goc va kich thuoc do duoc.",
+    "published":  "2026-11-09T04:12:25Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "6EC1832B24901CE8D2F6B52F98C8DB5E690AA6EE80BF4CB988BEC54EDB96BDE7",
+                     "value":  "ED4B4996038C2BD43DBE365DC1951BE325998B382D87C9E4F77F4F1D66B245BC",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
