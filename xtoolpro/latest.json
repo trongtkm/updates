@@ -1,17 +1,17 @@
 {
     "app":  "xtoolpro",
-    "version":  "3.3.46.220",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.220/XToolProSetup-3.3.46.220.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.220",
-    "notes":  "XToolPro 3.3.46.220: DXF geometry gate (Flatten-\u003eDXF), DWG without DXF Check refused, Ghi vao model faster (writes only changed properties)",
-    "published":  "2026-11-10T03:36:38Z",
+    "version":  "3.3.46.221",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.221/XToolProSetup-3.3.46.221.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.221",
+    "notes":  "Ghi vao model che do doc W/L tu Drawing: chi tiet dinh hinh chi co L trong 2D (W trong) nay van ghi L vao part; ben trong giu gia tri cu; chi bao loi khi 2D khong co ca W lan L.",
+    "published":  "2026-11-10T03:54:35Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "A6AF53178BA24965A1EC0865C22C0D44A84B6FC9F0F54EAEC6002D145645CBF3",
+                     "value":  "DAB9A69AEAA54228CC254A229EB6C2A6E726DB1D6F37C9A1D47EC27D6EA58C61",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
