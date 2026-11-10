@@ -11,6 +11,7 @@ manifest**; code nguồn nằm ở các repo private.
 | Rhino add-in | `rhino/` | `rhino-v` |
 | Grasshopper plug-in | `grasshopper/` | `grasshopper-v` |
 | KCCManager (client WPF) | `kccmanager/` | `kccmanager-v` |
+| PDM CAD (client + add-in PDM) | `pdmcad/` | `pdmcad-v` |
 | NestingTool (xếp phôi độc lập) | `nestingtool/` | `nestingtool-v` |
 | BendCheck Studio (mô phỏng chấn, repo PressTool) | `bendcheck/` | `bendcheck-v` |
 
