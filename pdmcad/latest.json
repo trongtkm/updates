@@ -1,0 +1,17 @@
+{
+    "app":  "pdmcad",
+    "version":  "3.5.9",
+    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.5.9/PDMCADSetup-3.5.9.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.5.9",
+    "notes":  "S\u1eeda n\u00fat \u0110\u1ecdc Server kh\u00f4ng l\u1ea5y \u0111\u01b0\u1ee3c d\u1eef li\u1ec7u m\u1edbi t\u1eeb KCC Manager; c\u1eadp nh\u1eadt qua kho updates",
+    "published":  "2026-11-10T02:33:30Z",
+    "mandatory":  {
+                      "value":  false,
+                      "minVersion":  null,
+                      "mode":  0
+                  },
+    "checksum":  {
+                     "value":  "592BED3F558177DBFFF294ED0EAF09E821D12DA5ECDBD6578725599056B2D363",
+                     "hashingAlgorithm":  "SHA256"
+                 }
+}
