@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.36",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.36/ZWCADToolZwCadSetup_1.4.36.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.36",
-    "notes":  "B\u1ecf 3 n\u00fat c\u0169 jww2dwg/dwg2jww/dwg2jwwb (\u0111\u00e3 g\u1ed9p v\u00e0o JWW \u2194 DWG); ribbon ZWCAD c\u00f3 n\u00fat JWW \u2194 DWG",
-    "published":  "2026-11-10T05:42:11Z",
+    "version":  "1.4.37",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.37/ZWCADToolZwCadSetup_1.4.37.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.37",
+    "notes":  "Host: thanh cu\u1ed9n m\u1ea3nh h\u01a1n (8px)",
+    "published":  "2026-11-10T05:45:16Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "B2364F93E20F1945C372E71044E4F5D2F3F0D3B94A37B7F7F6DF3F8A6551623B",
+                     "value":  "DB1F8E1C8635A4C5951A82A18E188BE954DD60CB4B24E801E0435C21D67C475E",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
