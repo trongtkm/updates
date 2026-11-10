@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.35",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.35/ZWCADToolZwCadSetup_1.4.35.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.35",
-    "notes":  "Host: thêm thanh cuộn cho dải tab khi chữ tab xoay dọc",
-    "published":  "2026-11-07T07:18:48Z",
+    "version":  "1.4.36",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.36/ZWCADToolZwCadSetup_1.4.36.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.36",
+    "notes":  "B\u1ecf 3 n\u00fat c\u0169 jww2dwg/dwg2jww/dwg2jwwb (\u0111\u00e3 g\u1ed9p v\u00e0o JWW \u2194 DWG); ribbon ZWCAD c\u00f3 n\u00fat JWW \u2194 DWG",
+    "published":  "2026-11-10T05:42:11Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "868212734AE44FD3D83F516F009698DEEC96E501942DE67A8E758A7BE4E27014",
+                     "value":  "B2364F93E20F1945C372E71044E4F5D2F3F0D3B94A37B7F7F6DF3F8A6551623B",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
