@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.85.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.85.0/KCCManagerSetup-3.3.85.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.85.0",
-    "notes":  "Nut noi xac nhan gio: dau X de tam an; khong co don tang ca thi khong hien. Bang cham cong: tinh ngay di lam T7/CN/le khi co don tang ca da xac nhan gio.",
-    "published":  "2026-11-02T05:40:52Z",
+    "version":  "3.3.93.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.93.0/KCCManagerSetup-3.3.93.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.93.0",
+    "notes":  "Nhom tin nhan Chatwork theo thang/chu ky task, tach rieng tin da xoa, toi uu nhom tin nhan.",
+    "published":  "2026-11-10T06:21:46Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "8DC23CEED97918BCA19E6D609FD4593BD4678D2C255F79449ABDD0664185F48D",
+                     "value":  "798CBEF1DBFDE1236A94C51E6755F24B112BEE59607260E5F1FB2F81F3A402E4",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
