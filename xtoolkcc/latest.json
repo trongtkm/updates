@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.220",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.220/XToolKCCSetup-3.3.46.220.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.220",
-    "notes":  "Ghi vao model: chi ghi property doi, chi luu khi co thay doi (chay lai nhanh hon), nap lai part trong RAM cu truoc khi ghi, kiem file sau khi luu. Flatten-\u003eDXF: cong hinh hoc cuoi so DXF voi model 2 chieu (0.02 mm), lech thi khong ghi file; sua canh vung uon con tren CUT; DXF Check lech FlatPattern thi chan; tat Merge end points; DWG bi tu choi.",
-    "published":  "2026-11-10T02:04:05Z",
+    "version":  "3.3.46.221",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.221/XToolKCCSetup-3.3.46.221.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.221",
+    "notes":  "Ghi vao model che do doc W/L tu Drawing: chi tiet dinh hinh chi co L trong 2D (W trong) nay van ghi L vao part; ben trong giu gia tri cu; chi bao loi khi 2D khong co ca W lan L.",
+    "published":  "2026-11-10T03:53:58Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "B1487E655847D129ACE6D4EBDC55B0584ED680CD422D7F288DB8F9FBE3045EFC",
+                     "value":  "EC2194248FA9A8F9EC1056C5390B181971AA02C2F21509FFD0FAE0BD755B9B18",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
