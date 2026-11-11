@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.94.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.94.0/KCCManagerSetup-3.3.94.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.94.0",
-    "notes":  "Tab \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406 cho nhom \u8a2d\u8a08 va \u30d0\u30e9\u56f3",
-    "published":  "2026-11-11T04:53:11Z",
+    "version":  "3.3.95.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.95.0/KCCManagerSetup-3.3.95.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.95.0",
+    "notes":  "Toi uu giao dien: chu ro hon, mot font; tab \u52e4\u52d9\u6642\u523b\u78ba\u8a8d them tab Tang ca (gio bam xac nhan), cot Gio bam trong bang tang ca, nut Huong dan va cach tinh tang ca; tab \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406 gon thanh cong cu. Can server 3.3.95.0 de xem gio bam.",
+    "published":  "2026-11-11T09:59:24Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "E6A316516E7178ABE7B2D62E6A3066B95EC19684D23C1D1828380F923C17FF7A",
+                     "value":  "71874FB6F524C8BB0EAA8B66DA5EE3BEA0B49FF62F8C2A43DCCA72AE38335004",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
