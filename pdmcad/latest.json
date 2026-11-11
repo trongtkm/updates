@@ -1,17 +1,17 @@
 {
     "app":  "pdmcad",
-    "version":  "3.6.5",
-    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.6.5/PDMCADSetup-3.6.5.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.6.5",
-    "notes":  "Menu chu\u1ed9t ph\u1ea3i \u0027PDM: Th\u00eam v\u00e0o d\u1ef1 \u00e1n\u0027 hi\u1ec7n 8 d\u1ef1 \u00e1n m\u1edbi nh\u1ea5t theo m\u00e3 Task (v\u00ed d\u1ee5 26NV20, 26NV12\u2026), kh\u00f4ng ph\u1ee5 thu\u1ed9c vai tr\u00f2",
-    "published":  "2026-11-11T09:05:06Z",
+    "version":  "3.6.6",
+    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.6.6/PDMCADSetup-3.6.6.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.6.6",
+    "notes":  "T\u1ec7p \u0111\u00e3 li\u00ean k\u1ebft v\u00e0o PDM c\u00f3 bi\u1ec3u t\u01b0\u1ee3ng PDM tr\u00ean Explorer (gi\u1ed1ng OneDrive). Bi\u1ec3u t\u01b0\u1ee3ng hi\u1ec7n sau khi kh\u1edfi \u0111\u1ed9ng l\u1ea1i Explorer ho\u1eb7c \u0111\u0103ng nh\u1eadp l\u1ea1i.",
+    "published":  "2026-11-11T09:33:34Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "AC613F10ABD9DF21A94BB0A72D94B915E1CD6655F99E3DB2707B140075CBE75A",
+                     "value":  "8C3FB82731B82C2FD81C9D282A2B6D8DCD77D11990820A4B2049A8F81D6C2874",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
