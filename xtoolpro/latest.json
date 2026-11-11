@@ -1,17 +1,17 @@
 {
     "app":  "xtoolpro",
-    "version":  "3.3.46.221",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.221/XToolProSetup-3.3.46.221.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.221",
-    "notes":  "Ghi vao model che do doc W/L tu Drawing: chi tiet dinh hinh chi co L trong 2D (W trong) nay van ghi L vao part; ben trong giu gia tri cu; chi bao loi khi 2D khong co ca W lan L.",
-    "published":  "2026-11-10T03:54:35Z",
+    "version":  "3.3.46.223",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.223/XToolProSetup-3.3.46.223.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.223",
+    "notes":  "Ghi vao model: o so tehai (tehai bango) co nut tai lai tu KCCManager (lay so tehai moi va cap nhat thong tin cua so dang chon); bam vao o chu cung mo danh sach; danh sach trong (lan tai luc mo SOLIDWORKS loi) thi tu tai lai khi mo va bao ly do loi; danh sach dai mo nhanh hon (ao hoa).",
+    "published":  "2026-11-11T06:21:38Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "DAB9A69AEAA54228CC254A229EB6C2A6E726DB1D6F37C9A1D47EC27D6EA58C61",
+                     "value":  "DA16C280C3E7DE7605AA2DAF3A053DF6671DC3600DD03E3884A78C9EBED2293D",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
