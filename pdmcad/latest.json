@@ -1,17 +1,17 @@
 {
     "app":  "pdmcad",
-    "version":  "3.6.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.6.0/PDMCADSetup-3.6.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.6.0",
-    "notes":  "Chu\u1ed9t ph\u1ea3i Explorer \u0027PDM: Th\u00eam v\u00e0o d\u1ef1 \u00e1n\u0027: th\u00eam t\u1ec7p v\u00e0o d\u1ef1 \u00e1n, l\u00e0m vi\u1ec7c t\u1ea1i ch\u1ed7, t\u1ef1 \u0111\u1ed3ng b\u1ed9; t\u1ef1 t\u1ea1o th\u01b0 m\u1ee5c d\u1ef1 \u00e1n \u0111\u1ecbnh k\u1ef3",
-    "published":  "2026-11-11T04:38:24Z",
+    "version":  "3.6.1",
+    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.6.1/PDMCADSetup-3.6.1.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.6.1",
+    "notes":  "Menu chu\u1ed9t ph\u1ea3i \u0027PDM: Th\u00eam v\u00e0o d\u1ef1 \u00e1n\u0027 c\u00f3 ngay khi PDM ch\u1ea1y; c\u1eeda s\u1ed5 ch\u1ecdn d\u1ef1 \u00e1n d\u1ea1ng b\u1ea3ng c\u00f3 c\u1ed9t Task \u2116, c\u00f4ng tr\u00ecnh, ph\u1ee5 tr\u00e1ch, ng\u00e0y l\u1eadp, t\u00ecm ki\u1ebfm nhanh",
+    "published":  "2026-11-11T06:41:06Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "A3493F14D8EC37882B5E3C889CF48FABDF0F8CC83F4EE026F2D7306A02BAF8D6",
+                     "value":  "30136E07C6F82D8A175A9FF2BE5734872D20E45D97BFD1E2EACE53408727F8AF",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
