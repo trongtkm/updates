@@ -1,17 +1,17 @@
 {
     "app":  "pdmcad",
-    "version":  "3.6.2",
-    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.6.2/PDMCADSetup-3.6.2.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.6.2",
-    "notes":  "C\u1eeda s\u1ed5 ch\u1ecdn d\u1ef1 \u00e1n hi\u1ec7n m\u1ecdi d\u1ef1 \u00e1n, x\u1ebfp theo Task \u2116 gi\u1ea3m d\u1ea7n, b\u1ea5m ti\u00eau \u0111\u1ec1 c\u1ed9t \u0111\u1ec3 s\u1eafp x\u1ebfp, tu\u1ef3 ch\u1ecdn \u1ea9n d\u1ef1 \u00e1n \u0111\u00e3 xong; kho\u00e1 t\u1ec7p li\u00ean k\u1ebft khi m\u1edf t\u1eeb Explorer",
-    "published":  "2026-11-11T07:27:58Z",
+    "version":  "3.6.3",
+    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.6.3/PDMCADSetup-3.6.3.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.6.3",
+    "notes":  "T\u1ef1 t\u1ea1o d\u1ef1 \u00e1n cho m\u1ecdi Task ERP m\u1edbi, k\u1ec3 c\u1ea3 Task \u0111\u00e3 \u0111\u00e1nh d\u1ea5u xong (c\u1ea7n c\u1eadp nh\u1eadt PDM.Server 3.6.3)",
+    "published":  "2026-11-11T07:40:52Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "4C64E5DBADB5273C9B85D97E4921686B0C7FEAE10A23BBC4169E865EEEF6FA56",
+                     "value":  "BE3B782FAC8E6DB37E1F43F759F555909E8BFB58BEC22E04AC9CE1F69F06C317",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
