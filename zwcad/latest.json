@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.37",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.37/ZWCADToolZwCadSetup_1.4.37.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.37",
-    "notes":  "Host: thanh cu\u1ed9n m\u1ea3nh h\u01a1n (8px)",
-    "published":  "2026-11-10T05:45:16Z",
+    "version":  "1.4.38",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.38/ZWCADToolZwCadSetup_1.4.38.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.38",
+    "notes":  "B\u1ea3ng module t\u1ef1 \u0111\u1ed5i theo t\u00ean/tab/nh\u00f3m s\u1eeda tr\u00ean Market; n\u00fat \u0111\u00e3 t\u1ef1 k\u00e9o gi\u1eef nguy\u00ean ch\u1ed7; tab Group hi\u1ec7n \u0111\u00fang t\u00ean. Tab Lisp: k\u00e9o th\u1ea3 file \u1ed5n \u0111\u1ecbnh h\u01a1n; ki\u1ec3m Lisp ch\u1ec9 c\u1ea3nh b\u00e1o (kh\u00f4ng \u1ea9n n\u00fat) khi h\u00e0m thi\u1ebfu n\u1eb1m trong l\u1ec7nh, g\u1ee3i \u00fd t\u00ean vla-* \u0111\u00fang.",
+    "published":  "2026-11-11T06:23:32Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "DB1F8E1C8635A4C5951A82A18E188BE954DD60CB4B24E801E0435C21D67C475E",
+                     "value":  "E3BE6BC5A2C9144931A055BAB01E973A6313193D5BA62C3561B909B676C235A3",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
