@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.95.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.95.0/KCCManagerSetup-3.3.95.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.95.0",
-    "notes":  "Toi uu giao dien: chu ro hon, mot font; tab \u52e4\u52d9\u6642\u523b\u78ba\u8a8d them tab Tang ca (gio bam xac nhan), cot Gio bam trong bang tang ca, nut Huong dan va cach tinh tang ca; tab \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406 gon thanh cong cu. Can server 3.3.95.0 de xem gio bam.",
-    "published":  "2026-11-11T09:59:24Z",
+    "version":  "3.3.96.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.96.0/KCCManagerSetup-3.3.96.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.96.0",
+    "notes":  "Ky \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406 theo ngay chot (\u8a2d\u8a08 16-\u003e15, \u30d0\u30e9\u56f3 21-\u003e20); tang ca: T7/CN/le xac nhan gio vao + gio ra, ngay thuong chi xac nhan gio ve (the, nut noi, bang, huong dan). Can server 3.3.96.0.",
+    "published":  "2026-11-11T11:11:15Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "71874FB6F524C8BB0EAA8B66DA5EE3BEA0B49FF62F8C2A43DCCA72AE38335004",
+                     "value":  "9C019151DC7D70FE6824544221D86DD3AE6C3132F26A1792158AD0540ED13F6A",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
