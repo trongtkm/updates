@@ -1,17 +1,17 @@
 {
     "app":  "bendcheck",
-    "version":  "0.9.1",
-    "url":  "https://github.com/trongtkm/updates/releases/download/bendcheck-v0.9.1/BendCheck-0.9.1-setup.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/bendcheck-v0.9.1",
-    "notes":  "BendCheck Studio 0.9.1 (PressTool 6dbc5d7): BendBench (ADR-102); mo hinh BendNet r8e120t nhu 0.9.0. Ghi chu: docs/release/RELEASE_NOTES_v0.9.1.md trong repo PressTool.",
-    "published":  "2026-11-02T21:49:10Z",
+    "version":  "0.10.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/bendcheck-v0.10.0/BendCheck-0.10.0-setup.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/bendcheck-v0.10.0",
+    "notes":  "BendCheck Studio 0.10.0 (PressTool 12e8585): AI tu hoc o xuong, luot lan co quay lui (opt-1.20.0), va cham nhanh hon (col-1.4.0, REAL-034 -17%), 15 ho mat cat moi; mo hinh BendNet r8e120t nhu 0.9.x. Ghi chu: docs/release/RELEASE_NOTES_v0.10.0.md trong repo PressTool.",
+    "published":  "2026-11-11T20:17:51Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "979E66F931A0600CCA62E9BD9C17B7AE80FB0F03EE1CB6EC57C55DF1406EA26D",
+                     "value":  "96ACEDAE53004D8327FAEC75AA1DDC5F59569778DC80B786B1D9C655A6596403",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
