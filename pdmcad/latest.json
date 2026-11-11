@@ -1,17 +1,17 @@
 {
     "app":  "pdmcad",
-    "version":  "3.6.4",
-    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.6.4/PDMCADSetup-3.6.4.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.6.4",
-    "notes":  "D\u1ef1 \u00e1n x\u1ebfp theo m\u00e3 Task KCC (n\u0103m + th\u00e1ng + s\u1ed1 th\u1ee9 t\u1ef1, v\u00ed d\u1ee5 26NV12), m\u1edbi nh\u1ea5t l\u00ean \u0111\u1ea7u, \u1edf c\u1eeda s\u1ed5 ch\u00ednh v\u00e0 c\u1eeda s\u1ed5 ch\u1ecdn d\u1ef1 \u00e1n",
-    "published":  "2026-11-11T08:47:24Z",
+    "version":  "3.6.5",
+    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.6.5/PDMCADSetup-3.6.5.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.6.5",
+    "notes":  "Menu chu\u1ed9t ph\u1ea3i \u0027PDM: Th\u00eam v\u00e0o d\u1ef1 \u00e1n\u0027 hi\u1ec7n 8 d\u1ef1 \u00e1n m\u1edbi nh\u1ea5t theo m\u00e3 Task (v\u00ed d\u1ee5 26NV20, 26NV12\u2026), kh\u00f4ng ph\u1ee5 thu\u1ed9c vai tr\u00f2",
+    "published":  "2026-11-11T09:05:06Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "91CBCCC3E4038A1F665C09644B05EC474F67037697F97E931BB3D3FC66A4C519",
+                     "value":  "AC613F10ABD9DF21A94BB0A72D94B915E1CD6655F99E3DB2707B140075CBE75A",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
