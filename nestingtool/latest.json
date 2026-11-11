@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.83",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.83/NestingTool_Setup_0.1.83.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.83",
-    "notes":  "Canh bao loi ro rang: kiem dau vao truoc khi xep (qua kho tam, bien ho/chap/tu cat, lo tho ra ngoai, so luong, gioi han so tam); danh sach chi tiet khong xep duoc kem ly do; loi kem cach xu ly.",
-    "published":  "2026-11-06T20:33:53Z",
+    "version":  "0.1.84",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.84/NestingTool_Setup_0.1.84.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.84",
+    "notes":  "Dung mem giu ket qua (bam Dung lan 1 lay bo cuc tot nhat hien co, lan 2 dung han); thong bao dang banner thay hop thoai; kiem nguoc file DXF sau khi xuat; kiem o nhap ngay khi go; ep tam cuoi bang sparrow o moi che do; nho bo cuc tot nhat cho moi don. Loi xep release-0184.",
+    "published":  "2026-11-11T07:15:52Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "C2956EECA2DD3F8A32B53F194373E70B2D7702F501009125B66C90D23755F976",
+                     "value":  "1D1BDBF4BAD27D8060A4B776F3A0467185C75AAB6B3F132377FF75C7A7FF9620",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
