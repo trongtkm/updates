@@ -1,17 +1,17 @@
 {
     "app":  "pdmcad",
-    "version":  "3.5.9",
-    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.5.9/PDMCADSetup-3.5.9.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.5.9",
-    "notes":  "S\u1eeda n\u00fat \u0110\u1ecdc Server kh\u00f4ng l\u1ea5y \u0111\u01b0\u1ee3c d\u1eef li\u1ec7u m\u1edbi t\u1eeb KCC Manager; c\u1eadp nh\u1eadt qua kho updates",
-    "published":  "2026-11-10T02:33:30Z",
+    "version":  "3.6.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/pdmcad-v3.6.0/PDMCADSetup-3.6.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/pdmcad-v3.6.0",
+    "notes":  "Chu\u1ed9t ph\u1ea3i Explorer \u0027PDM: Th\u00eam v\u00e0o d\u1ef1 \u00e1n\u0027: th\u00eam t\u1ec7p v\u00e0o d\u1ef1 \u00e1n, l\u00e0m vi\u1ec7c t\u1ea1i ch\u1ed7, t\u1ef1 \u0111\u1ed3ng b\u1ed9; t\u1ef1 t\u1ea1o th\u01b0 m\u1ee5c d\u1ef1 \u00e1n \u0111\u1ecbnh k\u1ef3",
+    "published":  "2026-11-11T04:38:24Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "592BED3F558177DBFFF294ED0EAF09E821D12DA5ECDBD6578725599056B2D363",
+                     "value":  "A3493F14D8EC37882B5E3C889CF48FABDF0F8CC83F4EE026F2D7306A02BAF8D6",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
