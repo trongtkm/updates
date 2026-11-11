@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.222",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.222/XToolKCCSetup-3.3.46.222.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.222",
-    "notes":  "AI hoc Dot 9A: ban ve Make2D / tao hang loat duoc danh dau AI ve tren may tram (sua lai la tin hieu hoc). Gom ca 3.3.46.221: Ghi vao model doc L tu Drawing khi 2D khong co W.",
-    "published":  "2026-11-10T04:50:09Z",
+    "version":  "3.3.46.223",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.223/XToolKCCSetup-3.3.46.223.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.223",
+    "notes":  "Ghi vao model: o so tehai (tehai bango) co nut tai lai tu KCCManager (lay so tehai moi va cap nhat thong tin cua so dang chon); bam vao o chu cung mo danh sach; danh sach trong (lan tai luc mo SOLIDWORKS loi) thi tu tai lai khi mo va bao ly do loi; danh sach dai mo nhanh hon (ao hoa).",
+    "published":  "2026-11-11T06:21:00Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "534926C52CB527F118B4E86B9BDDAA76D02179F4541B35CE788964BB4B965D99",
+                     "value":  "CF7340D07E41833977486C212C5772F4FFFE8F088F33CEEB3E579B4C8F1BBED0",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
