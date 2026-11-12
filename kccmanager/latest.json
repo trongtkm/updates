@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.101.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.101.0/KCCManagerSetup-3.3.101.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.101.0",
-    "notes":  "PM: loc nhan vien theo che do, lich su sua ke hoach, popup nhap gio tren Gantt. Can server 3.3.101.0.",
-    "published":  "2026-11-12T12:11:49Z",
+    "version":  "3.3.102.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.102.0/KCCManagerSetup-3.3.102.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.102.0",
+    "notes":  "Tang ca: gio ve/gio ra bam lai duoc, lay lan bam cuoi cung; gio vao (di som, T7/CN/le) lay lan bam som nhat. Can server 3.3.102.0.",
+    "published":  "2026-11-12T22:21:26Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "1E99DD89B27DF54CE07D9F647D5A59B7FB8935701E0C53CF3C9C602D1011D728",
+                     "value":  "27C65DD7E12D859F97A2652BBD9F9E71B416A2969C1EF0718C89A12FB190D7F9",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
