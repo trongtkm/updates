@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.97.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.97.0/KCCManagerSetup-3.3.97.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.97.0",
-    "notes":  "Bang Tai cong viec (\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406): hien ten nguoi, ke dong ro hon, nhin 9 tuan toi.",
-    "published":  "2026-11-11T20:50:17Z",
+    "version":  "3.3.98.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.98.0/KCCManagerSetup-3.3.98.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.98.0",
+    "notes":  "Dong bo trang thai Design Daily Report sang tab \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406; Gantt xep Task number giam dan. Can server 3.3.98.0 de dong bo trang thai.",
+    "published":  "2026-11-12T01:28:33Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "4F72B09141CA6B3FF55393C5CD8D67B5A25C3A7341599E4E318438C6A363000D",
+                     "value":  "1BB5C04B27C8FCD0137D34EE5B62B9937A9D68FD54AF8ED211DD53D05E7040A0",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
