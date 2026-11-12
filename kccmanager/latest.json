@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.100.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.100.0/KCCManagerSetup-3.3.100.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.100.0",
-    "notes":  "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406: moi tab (\u6982\u8981, Gantt, \u30b9\u30c6\u30fc\u30bf\u30b9\u30dc\u30fc\u30c9, \u4f5c\u696d\u8ca0\u8377, \u4e00\u89a7) xep Task number giam dan; task giao trong ky luon hien, chua xong thi chuyen sang ky sau. Can server 3.3.100.0.",
-    "published":  "2026-11-12T06:29:59Z",
+    "version":  "3.3.101.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.101.0/KCCManagerSetup-3.3.101.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.101.0",
+    "notes":  "PM: loc nhan vien theo che do, lich su sua ke hoach, popup nhap gio tren Gantt. Can server 3.3.101.0.",
+    "published":  "2026-11-12T12:11:49Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "11B5AF8AF6A47CBA39C7E0AF1BC018E8561800930B9CC51207A527A39A2E674B",
+                     "value":  "1E99DD89B27DF54CE07D9F647D5A59B7FB8935701E0C53CF3C9C602D1011D728",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
