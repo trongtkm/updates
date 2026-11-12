@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.98.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.98.0/KCCManagerSetup-3.3.98.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.98.0",
-    "notes":  "Dong bo trang thai Design Daily Report sang tab \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406; Gantt xep Task number giam dan. Can server 3.3.98.0 de dong bo trang thai.",
-    "published":  "2026-11-12T01:28:33Z",
+    "version":  "3.3.100.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.100.0/KCCManagerSetup-3.3.100.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.100.0",
+    "notes":  "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406: moi tab (\u6982\u8981, Gantt, \u30b9\u30c6\u30fc\u30bf\u30b9\u30dc\u30fc\u30c9, \u4f5c\u696d\u8ca0\u8377, \u4e00\u89a7) xep Task number giam dan; task giao trong ky luon hien, chua xong thi chuyen sang ky sau. Can server 3.3.100.0.",
+    "published":  "2026-11-12T06:29:59Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "1BB5C04B27C8FCD0137D34EE5B62B9937A9D68FD54AF8ED211DD53D05E7040A0",
+                     "value":  "11B5AF8AF6A47CBA39C7E0AF1BC018E8561800930B9CC51207A527A39A2E674B",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
