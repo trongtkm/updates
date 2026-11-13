@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.103.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.103.0/KCCManagerSetup-3.3.103.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.103.0",
-    "notes":  "Tab \u52e4\u52d9\u6642\u523b\u78ba\u8a8d \u003e Tang ca: Leader/HR mac dinh xem ca phong / toan cong ty.",
-    "published":  "2026-11-12T23:03:33Z",
+    "version":  "3.3.104.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.104.0/KCCManagerSetup-3.3.104.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.104.0",
+    "notes":  "\u8a2d\u8a08\u65e5\u5831 Excel: \u524d\u6708\u51fa\u529b\u6e08\u307f\u3067\u4eca\u56de0\u6642\u9593\u306e\u30bf\u30b9\u30af\u3092\u51fa\u529b\u3057\u306a\u3044 / \u524a\u9664\u30bf\u30b9\u30af(\u6b20\u756a)\u3092\u8584\u8272+\u5099\u8003\u3067\u51fa\u529b",
+    "published":  "2026-11-13T20:41:53Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "5F84729201E6E384FDD777D660415292543407CF59B4AAD0457873531FE34E13",
+                     "value":  "9E53F11FE00F7E9ABBE0BD12F947FEC0AD3DE454AC34EC0CB322EC47A8B2565A",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
