@@ -1,17 +1,17 @@
 {
     "app":  "xtoolpro",
-    "version":  "3.3.46.223",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.223/XToolProSetup-3.3.46.223.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.223",
-    "notes":  "Ghi vao model: o so tehai (tehai bango) co nut tai lai tu KCCManager (lay so tehai moi va cap nhat thong tin cua so dang chon); bam vao o chu cung mo danh sach; danh sach trong (lan tai luc mo SOLIDWORKS loi) thi tu tai lai khi mo va bao ly do loi; danh sach dai mo nhanh hon (ao hoa).",
-    "published":  "2026-11-11T06:21:38Z",
+    "version":  "3.3.46.259",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.259/XToolProSetup-3.3.46.259.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.259",
+    "notes":  "Ban test 3.3.46.259 (gom PR #34-#37): giao dien 3 ngon ngu Nhat/Anh/Viet (mac dinh tieng Nhat, doi trong Cai dat); tu nhan SOLIDWORKS 2024/2026 va cai dung bo API; DXF nhanh hon, Check va LASER_MARK; Pack and Go/Save to Next/Rename kiem tra truoc khi ghi; Make 2D co tuy chon xoa configuration, hoi truoc khi ghi de, mat cat theo mat danh dau; khong tu luu file dinh dang SOLIDWORKS cu khi chua hoi. Luu y: 259 dang duoc test tren SOLIDWORKS 2026.",
+    "published":  "2026-11-14T18:51:19Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "DA16C280C3E7DE7605AA2DAF3A053DF6671DC3600DD03E3884A78C9EBED2293D",
+                     "value":  "D08D6586FAF79F9D61F6E073416E2A8D1FFADBEEF0CA66C90296362DEF2E09C4",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
