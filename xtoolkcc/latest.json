@@ -1,17 +1,17 @@
 {
     "app":  "xtoolkcc",
-    "version":  "3.3.46.223",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.223/XToolKCCSetup-3.3.46.223.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.223",
-    "notes":  "Ghi vao model: o so tehai (tehai bango) co nut tai lai tu KCCManager (lay so tehai moi va cap nhat thong tin cua so dang chon); bam vao o chu cung mo danh sach; danh sach trong (lan tai luc mo SOLIDWORKS loi) thi tu tai lai khi mo va bao ly do loi; danh sach dai mo nhanh hon (ao hoa).",
-    "published":  "2026-11-11T06:21:00Z",
+    "version":  "3.3.46.259",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolkcc-v3.3.46.259/XToolKCCSetup-3.3.46.259.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolkcc-v3.3.46.259",
+    "notes":  "Ban test 3.3.46.259 (gom PR #34-#37): giao dien 3 ngon ngu Nhat/Anh/Viet (mac dinh tieng Nhat, doi trong Cai dat); tu nhan SOLIDWORKS 2024/2026 va cai dung bo API; DXF nhanh hon, Check va LASER_MARK; Pack and Go/Save to Next/Rename kiem tra truoc khi ghi; Make 2D co tuy chon xoa configuration, hoi truoc khi ghi de, mat cat theo mat danh dau; khong tu luu file dinh dang SOLIDWORKS cu khi chua hoi. Luu y: 259 dang duoc test tren SOLIDWORKS 2026.",
+    "published":  "2026-11-14T18:51:36Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "CF7340D07E41833977486C212C5772F4FFFE8F088F33CEEB3E579B4C8F1BBED0",
+                     "value":  "31269C409CD204EE0467AC2A7E0B863511D1EB8E54CBF077847BF3C9FB6CA1DE",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
