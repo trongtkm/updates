@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.38",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.38/ZWCADToolZwCadSetup_1.4.38.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.38",
-    "notes":  "B\u1ea3ng module t\u1ef1 \u0111\u1ed5i theo t\u00ean/tab/nh\u00f3m s\u1eeda tr\u00ean Market; n\u00fat \u0111\u00e3 t\u1ef1 k\u00e9o gi\u1eef nguy\u00ean ch\u1ed7; tab Group hi\u1ec7n \u0111\u00fang t\u00ean. Tab Lisp: k\u00e9o th\u1ea3 file \u1ed5n \u0111\u1ecbnh h\u01a1n; ki\u1ec3m Lisp ch\u1ec9 c\u1ea3nh b\u00e1o (kh\u00f4ng \u1ea9n n\u00fat) khi h\u00e0m thi\u1ebfu n\u1eb1m trong l\u1ec7nh, g\u1ee3i \u00fd t\u00ean vla-* \u0111\u00fang.",
-    "published":  "2026-11-11T06:23:32Z",
+    "version":  "1.4.39",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.39/ZWCADToolZwCadSetup_1.4.39.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.39",
+    "notes":  "JWW \u2192 DWG/DXF: gi\u1eef \u0111\u1ee7 chi ti\u1ebft nh\u01b0 Jw_cad (khung t\u00ean nh\u00f3m 1/1 \u0111\u00fang t\u1ec9 l\u1ec7, kh\u00f4ng m\u1ea5t n\u00e9t, cung \u0111\u00fang chi\u1ec1u, ch\u1eef Nh\u1eadt \u0111\u00fang tr\u00ean Windows kh\u00f4ng ph\u1ea3i ti\u1ebfng Nh\u1eadt)",
+    "published":  "2026-11-18T02:54:06Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "E3BE6BC5A2C9144931A055BAB01E973A6313193D5BA62C3561B909B676C235A3",
+                     "value":  "4DFBEAB7A861587A461A46FB3938FF80CE04DB50F44E8BB833A69CEF4B1CFF8B",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
