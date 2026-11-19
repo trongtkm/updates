@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.87",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.87/NestingTool_Setup_0.1.87.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.87",
-    "notes":  "Xep chat hon. File nhieu loai chi tiet (vd. 590.dwg) khong con bi dung som: loi raster duoc cap du thoi gian theo che do (590.dwg: 32 -\u003e 31 tam). Loi raster tu thu xoay 90 va 45 do ben canh buoc xoay dat san va giu buoc tot hon: tren ho so that cua xuong tiet kiem 1-2 tam (13 -\u003e 11, 10 -\u003e 9).",
-    "published":  "2026-11-19T20:15:05Z",
+    "version":  "0.1.88",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.88/NestingTool_Setup_0.1.88.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.88",
+    "notes":  "Xep duoc bo nhieu loai chi tiet (vai tram file) bang loi chinh thay vi raster; nhanh hon ~5 lan voi bo 140 loai; bo cuc khong doi.",
+    "published":  "2026-11-19T22:34:48Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "633A74F126174A0A88060E46917896344D1F7A321C3C530030AA263B397D65A1",
+                     "value":  "EAD657E79C4C8E62D998EC39EA42FE689C9449303288B17A1462970EC678589F",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
