@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.86",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.86/NestingTool_Setup_0.1.86.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.86",
-    "notes":  "Xep duoc file DWG/DXF nhieu loai chi tiet (vi du 590.dwg, 528 loai): khong con treo lau roi bao loi. Rut gon diem duong cong khi doc file; bo chi tiet qua nhieu loai thi tu xep bang loi raster va hien canh bao noi ro ly do.",
-    "published":  "2026-11-17T09:47:16Z",
+    "version":  "0.1.87",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.87/NestingTool_Setup_0.1.87.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.87",
+    "notes":  "Xep chat hon. File nhieu loai chi tiet (vd. 590.dwg) khong con bi dung som: loi raster duoc cap du thoi gian theo che do (590.dwg: 32 -\u003e 31 tam). Loi raster tu thu xoay 90 va 45 do ben canh buoc xoay dat san va giu buoc tot hon: tren ho so that cua xuong tiet kiem 1-2 tam (13 -\u003e 11, 10 -\u003e 9).",
+    "published":  "2026-11-19T20:15:05Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "8FBB20770343F71C847437B028EE788B7A5703C0E1FD2F88B84CAD44678D3BC4",
+                     "value":  "633A74F126174A0A88060E46917896344D1F7A321C3C530030AA263B397D65A1",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
