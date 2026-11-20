@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.88",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.88/NestingTool_Setup_0.1.88.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.88",
-    "notes":  "Xep duoc bo nhieu loai chi tiet (vai tram file) bang loi chinh thay vi raster; nhanh hon ~5 lan voi bo 140 loai; bo cuc khong doi.",
-    "published":  "2026-11-19T22:34:48Z",
+    "version":  "0.1.89",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.89/NestingTool_Setup_0.1.89.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.89",
+    "notes":  "0.1.89: Loi pynest nhan ban hinh hoc gon - bo cac lo khong chua noi chi tiet nao (tam dot lo) va rut gon duong cong 0,05 mm ve phia an toan; hinh that giu nguyen de xuat DXF va cat. Job xuong nhanh gap doi (vi du 13 s -\u003e 5 s), so tam khong doi; file co lo hong truoc day lam loi xep sap nay xep duoc. Loi Python giu nguyen release-0188.",
+    "published":  "2026-11-20T01:38:17Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "EAD657E79C4C8E62D998EC39EA42FE689C9449303288B17A1462970EC678589F",
+                     "value":  "0E8DA14396518717B0374B8DE0D80E590782319E573E2C0844256068C1C2404D",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
