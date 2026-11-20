@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.89",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.89/NestingTool_Setup_0.1.89.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.89",
-    "notes":  "0.1.89: Loi pynest nhan ban hinh hoc gon - bo cac lo khong chua noi chi tiet nao (tam dot lo) va rut gon duong cong 0,05 mm ve phia an toan; hinh that giu nguyen de xuat DXF va cat. Job xuong nhanh gap doi (vi du 13 s -\u003e 5 s), so tam khong doi; file co lo hong truoc day lam loi xep sap nay xep duoc. Loi Python giu nguyen release-0188.",
-    "published":  "2026-11-20T01:38:17Z",
+    "version":  "0.1.90",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.90/NestingTool_Setup_0.1.90.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.90",
+    "notes":  "0.1.90: Loi pynest release-0190 (Nestingsolver 24094b3): them thanh vien xep hop chu nhat (rect_member) va sparrow tung tam (sheetwise, che do tu 60 s tro len), chi giu khi tot hon. sparrow.exe dung lai tu ban vendored co va dung dung han thoi gian. Kiem 745 chi tiet, 3000x1500, che do Chuan: 13 tam, hop le, 95 s.",
+    "published":  "2026-11-20T05:26:09Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "0E8DA14396518717B0374B8DE0D80E590782319E573E2C0844256068C1C2404D",
+                     "value":  "9177A6D13FF0BCF6F119D3751A00ACEA20FC6E20D9EA54CDB6C958B633D6900A",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
