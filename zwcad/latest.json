@@ -1,17 +1,17 @@
 {
     "app":  "zwcad",
-    "version":  "1.4.39",
-    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.39/ZWCADToolZwCadSetup_1.4.39.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.39",
-    "notes":  "JWW \u2192 DWG/DXF: gi\u1eef \u0111\u1ee7 chi ti\u1ebft nh\u01b0 Jw_cad (khung t\u00ean nh\u00f3m 1/1 \u0111\u00fang t\u1ec9 l\u1ec7, kh\u00f4ng m\u1ea5t n\u00e9t, cung \u0111\u00fang chi\u1ec1u, ch\u1eef Nh\u1eadt \u0111\u00fang tr\u00ean Windows kh\u00f4ng ph\u1ea3i ti\u1ebfng Nh\u1eadt)",
-    "published":  "2026-11-18T02:54:06Z",
+    "version":  "1.4.40",
+    "url":  "https://github.com/trongtkm/updates/releases/download/zwcad-v1.4.40/ZWCADToolZwCadSetup_1.4.40.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/zwcad-v1.4.40",
+    "notes":  "IPLOT: t\u00f9y ch\u1ecdn in nh\u01b0 h\u1ed9p PLOT (\u00e1p chung m\u1ecdi tab), in qua PDF24 g\u1ed9p 1 file PDF; b\u1ed9 c\u00e0i k\u00e8m PDF24 Creator 9.20 (c\u00e0i im l\u1eb7ng n\u1ebfu ch\u01b0a c\u00f3).",
+    "published":  "2026-11-20T09:50:09Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "4DFBEAB7A861587A461A46FB3938FF80CE04DB50F44E8BB833A69CEF4B1CFF8B",
+                     "value":  "E85A49C4A31AEC3AE000B266D0AEA8C62EB1B41C047EBCDE3FA3DBB7433CF564",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
