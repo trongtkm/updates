@@ -1,17 +1,17 @@
 {
     "app":  "nestingtool",
-    "version":  "0.1.90",
-    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.90/NestingTool_Setup_0.1.90.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.90",
-    "notes":  "0.1.90: Loi pynest release-0190 (Nestingsolver 24094b3): them thanh vien xep hop chu nhat (rect_member) va sparrow tung tam (sheetwise, che do tu 60 s tro len), chi giu khi tot hon. sparrow.exe dung lai tu ban vendored co va dung dung han thoi gian. Kiem 745 chi tiet, 3000x1500, che do Chuan: 13 tam, hop le, 95 s.",
-    "published":  "2026-11-20T05:26:09Z",
+    "version":  "0.1.91",
+    "url":  "https://github.com/trongtkm/updates/releases/download/nestingtool-v0.1.91/NestingTool_Setup_0.1.91.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/nestingtool-v0.1.91",
+    "notes":  "Ki\u1ec3m tra l\u01b0\u1edbi nhanh g\u1ea5p \u0111\u00f4i khi x\u1ebfp \u0111\u01a1n nhi\u1ec1u lo\u1ea1i chi ti\u1ebft (b\u1ed1 c\u1ee5c kh\u00f4ng \u0111\u1ed5i). \u0110\u01a1n qu\u00e1 nhi\u1ec1u lo\u1ea1i nh\u01b0 590 v\u1eabn x\u1ebfp b\u1eb1ng raster v\u00ec t\u1ed1t h\u01a1n (31 t\u1ea5m), th\u00f4ng b\u00e1o gi\u1edd l\u00e0 d\u00f2ng th\u00f4ng tin, kh\u00f4ng c\u00f2n c\u1ea3nh b\u00e1o.",
+    "published":  "2026-11-20T09:25:12Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "9177A6D13FF0BCF6F119D3751A00ACEA20FC6E20D9EA54CDB6C958B633D6900A",
+                     "value":  "63D8A2BA7E747AF7DAE27EADE4053608BF125CBA09C160ED5648134DCBB62938",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
