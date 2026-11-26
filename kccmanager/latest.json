@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.112.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.112.0/KCCManagerSetup-3.3.112.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.112.0",
-    "notes":  "B\u1ea3ng tin \u901a\u77e5 b\u1ea3n 2: th\u1ebb s\u1ed1 li\u1ec7u b\u1ea5m \u0111\u1ec3 l\u1ecdc, avatar ngh\u1ec9 ph\u00e9p/t\u0103ng ca, th\u1ebb vi\u1ec7c c\u00f3 thanh gi\u1edd (b\u1ea5m m\u1edf \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406), l\u1ecbch 14 ng\u00e0y d\u1ea1ng \u00f4; kh\u00f4ng hi\u1ec7n vi\u1ec7c tr\u1ec5 qu\u00e1 1 th\u00e1ng v\u00e0 vi\u1ec7c ch\u01b0a ch\u1ecdn \u62c5\u5f53\u8005.",
-    "published":  "2026-11-26T06:43:48Z",
+    "version":  "3.3.113.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.113.0/KCCManagerSetup-3.3.113.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.113.0",
+    "notes":  "S\u1eeda tab \u901a\u77e5: th\u1ebb vi\u1ec7c v\u00e0 \u00f4 l\u1ecbch kh\u00f4ng c\u00f2n b\u1ecb c\u1eaft ch\u1eef.",
+    "published":  "2026-11-26T07:01:37Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "5A9ED8E4E495FF35BB2A91D00F7885AE66F8241CA0D4D12F1EC7D62BDAA42C5F",
+                     "value":  "A2995860D21F62CB98E730B310B762918112B15A06C165ABDBA7F6FF1F8C511A",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
