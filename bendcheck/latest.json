@@ -1,17 +1,17 @@
 {
     "app":  "bendcheck",
-    "version":  "0.10.1",
-    "url":  "https://github.com/trongtkm/updates/releases/download/bendcheck-v0.10.1/BendCheck-0.10.1-setup.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/bendcheck-v0.10.1",
-    "notes":  "BendCheck Studio 0.10.1 (PressTool 3ba52e9): cong nhan mo hinh dem dung bo dao dat (chi tiet lap duoc ngay bang chay da ve khong con bi tinh la mat bo dao; vong tu hoc o xuong dung cong nay), cong cu huan luyen r13 (nhan chi phi, kho phu theo o, DAgger nhieu thay, shard, cong v3 ghep cap), graft giu ensemble; solver va ket luan khong doi; mo hinh BendNet r8e120t nhu 0.10.0. Ghi chu: docs/release/RELEASE_NOTES_v0.10.1.md trong repo PressTool (ADR-105).",
-    "published":  "2026-11-24T07:57:55Z",
+    "version":  "0.10.2",
+    "url":  "https://github.com/trongtkm/updates/releases/download/bendcheck-v0.10.2/BendCheck-0.10.2-setup.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/bendcheck-v0.10.2",
+    "notes":  "BendCheck Studio 0.10.2 (PressTool 729e8c0): Kiem tra cap nhat doc kho phat hanh trongtkm/updates (tai bo cai ve thu muc tam, kiem SHA256 roi moi chay); van ho tro thu muc offline qua BENDCHECK_UPDATE_FEED / update-feed.txt. Solver va mo hinh BendNet r8e120t nhu 0.10.1. Ghi chu: docs/release/RELEASE_NOTES_v0.10.2.md trong repo PressTool (ADR-106).",
+    "published":  "2026-11-26T06:32:54Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "AEB94AEBFAE274EBB830087FB5ABF2C8D76CBA1317FA212CD95BDABB517AC646",
+                     "value":  "92910B8B649C308A6E0A6E4F5AB777181924A3DB8505C2D1DA3FD29D41551B45",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
