@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.106.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.106.0/KCCManagerSetup-3.3.106.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.106.0",
-    "notes":  "Danh sach nghi phep khong xuong hang, cot \u671f\u9593 gon, to don \u6709\u7d66\u4f11\u6687\u5c4a thu nho 85%",
-    "published":  "2026-11-20T02:58:21Z",
+    "version":  "3.3.108.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.108.0/KCCManagerSetup-3.3.108.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.108.0",
+    "notes":  "3.3.108.0: \u500b\u4eba\u65e5\u5831 nhap nhanh (dai lich ky, dong nhap nhanh, canh bao chua luu); \u8a2d\u8a08\u30bf\u30b9\u30af / \u30d0\u30e9\u56f3\u624b\u914d\u756a\u53f7: tim kiem, chip loc, khung chi tiet, \u4fdd\u5b58 (n), luu khong thoat \u7de8\u96c6\u30e2\u30fc\u30c9, tu nha khoa sau 10 phut, copy \u5185\u5bb9 (Ctrl+C), \u30d0\u30e9\u56f3 \u7167\u5408 (n) va loc theo ky 3 thang; sua loi Save All xoa gio work log.",
+    "published":  "2026-11-26T01:56:39Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "3A6D9CC8A9B82D406F6379C16E7B9FEE6AF75D6C0C502E76F4103739844158C7",
+                     "value":  "9BA23686781F0C1F8808BD6C41E0BB732686742395069A99DA5C5EE3ED0F63CC",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
