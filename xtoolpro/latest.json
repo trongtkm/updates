@@ -1,17 +1,17 @@
 {
     "app":  "xtoolpro",
-    "version":  "3.3.46.259",
-    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.3.46.259/XToolProSetup-3.3.46.259.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.3.46.259",
-    "notes":  "Ban test 3.3.46.259 (gom PR #34-#37): giao dien 3 ngon ngu Nhat/Anh/Viet (mac dinh tieng Nhat, doi trong Cai dat); tu nhan SOLIDWORKS 2024/2026 va cai dung bo API; DXF nhanh hon, Check va LASER_MARK; Pack and Go/Save to Next/Rename kiem tra truoc khi ghi; Make 2D co tuy chon xoa configuration, hoi truoc khi ghi de, mat cat theo mat danh dau; khong tu luu file dinh dang SOLIDWORKS cu khi chua hoi. Luu y: 259 dang duoc test tren SOLIDWORKS 2026.",
-    "published":  "2026-11-14T18:51:19Z",
+    "version":  "3.4.0.17",
+    "url":  "https://github.com/trongtkm/updates/releases/download/xtoolpro-v3.4.0.17/XToolProSetup-3.4.0.17.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/xtoolpro-v3.4.0.17",
+    "notes":  "Ban 3.4.0.17: gom cac ban 3.3.46.260 - 3.4.0.17. Flatten to DXF: sua loi khong xuat duoc khi sheet co hai view trung ten (loi same key); khi SolidWorks 2024 tra thieu canh cat cua view thi lay du canh tu than part, khong con tu choi DXF dung. Kem cac sua DXF truoc do (khe MARK, lo MARK, dong khe ho nho, tra component ve lightweight), Ghi vao model nhanh hon, ho tro SOLIDWORKS 2024 SP5, Make 2D / Flatten + 2D co break view va ky hieu mat cat.",
+    "published":  "2026-11-26T07:25:24Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "D08D6586FAF79F9D61F6E073416E2A8D1FFADBEEF0CA66C90296362DEF2E09C4",
+                     "value":  "81E75482AD071765D0600E6F1E3A9F9C72D5901A10E61AEE5E8ACC79E23BEB65",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
