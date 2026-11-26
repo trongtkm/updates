@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.110.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.110.0/KCCManagerSetup-3.3.110.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.110.0",
-    "notes":  "3.3.110.0: dua lai o tick \u5b8c\u4e86 o dau cot (\u8a2d\u8a08\u30bf\u30b9\u30af \u5b8c\u4e86\u65e5, \u30d0\u30e9\u56f3 \u5b8c\u4e86) de xem task / don da hoan thanh.",
-    "published":  "2026-11-26T03:19:58Z",
+    "version":  "3.3.111.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.111.0/KCCManagerSetup-3.3.111.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.111.0",
+    "notes":  "Tab \u901a\u77e5 thanh bang tin tu dong: ai nghi phep hom nay / ngay lam viec toi, viec tre / sap tre (han hom nay hoac ngay mai), tang ca, lich sap toi; HR co tab \u901a\u77e5; nhac buoi sang (tat trong Cai dat).",
+    "published":  "2026-11-26T06:18:28Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "7FD46726917BDB95D9C35311CE31D5CBAA757299489D693B3AA4B83164BF937F",
+                     "value":  "B34B71E30A55540662F1C45C736938C1225D04EE30EA00992D5FCD772C2C1080",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
