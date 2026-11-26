@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.108.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.108.0/KCCManagerSetup-3.3.108.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.108.0",
-    "notes":  "3.3.108.0: \u500b\u4eba\u65e5\u5831 nhap nhanh (dai lich ky, dong nhap nhanh, canh bao chua luu); \u8a2d\u8a08\u30bf\u30b9\u30af / \u30d0\u30e9\u56f3\u624b\u914d\u756a\u53f7: tim kiem, chip loc, khung chi tiet, \u4fdd\u5b58 (n), luu khong thoat \u7de8\u96c6\u30e2\u30fc\u30c9, tu nha khoa sau 10 phut, copy \u5185\u5bb9 (Ctrl+C), \u30d0\u30e9\u56f3 \u7167\u5408 (n) va loc theo ky 3 thang; sua loi Save All xoa gio work log.",
-    "published":  "2026-11-26T01:56:39Z",
+    "version":  "3.3.109.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.109.0/KCCManagerSetup-3.3.109.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.109.0",
+    "notes":  "3.3.109.0: \u8a2d\u8a08\u30bf\u30b9\u30af khoi phuc cot \u5b8c\u4e86\u65e5 nhu ban cu; \u5b9f\u7e3e/\u4e88\u5b9a hien so ro rang, vuot gio ke hoach hien do; sua mau nhan han \u3042\u3068 n\u65e5 / n\u65e5\u8d85\u904e.",
+    "published":  "2026-11-26T02:23:57Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "9BA23686781F0C1F8808BD6C41E0BB732686742395069A99DA5C5EE3ED0F63CC",
+                     "value":  "AC5439A68C988BA849CD0B4681013DD246866D0EDE256603A621C339747B3E9D",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
