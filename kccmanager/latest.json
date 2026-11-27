@@ -1,17 +1,17 @@
 {
     "app":  "kccmanager",
-    "version":  "3.3.113.0",
-    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.113.0/KCCManagerSetup-3.3.113.0.exe",
-    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.113.0",
-    "notes":  "S\u1eeda tab \u901a\u77e5: th\u1ebb vi\u1ec7c v\u00e0 \u00f4 l\u1ecbch kh\u00f4ng c\u00f2n b\u1ecb c\u1eaft ch\u1eef.",
-    "published":  "2026-11-26T07:01:37Z",
+    "version":  "3.3.114.0",
+    "url":  "https://github.com/trongtkm/updates/releases/download/kccmanager-v3.3.114.0/KCCManagerSetup-3.3.114.0.exe",
+    "changelog":  "https://github.com/trongtkm/updates/releases/tag/kccmanager-v3.3.114.0",
+    "notes":  "Nut noi \u0027Xac nhan ve som\u0027 buoi chieu cho nguoi da xac nhan gio vao som (ve som tu 17:00 tru so phut den som). Can server 3.3.114.0.",
+    "published":  "2026-11-27T10:02:34Z",
     "mandatory":  {
                       "value":  false,
                       "minVersion":  null,
                       "mode":  0
                   },
     "checksum":  {
-                     "value":  "A2995860D21F62CB98E730B310B762918112B15A06C165ABDBA7F6FF1F8C511A",
+                     "value":  "F2F3D31AFC06CC42AF396D564F86BEBCE47961198B69C283CC144BE7E0312374",
                      "hashingAlgorithm":  "SHA256"
                  }
 }
